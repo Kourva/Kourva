@@ -1,9 +1,6 @@
 <h1 align="center"><img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"> ꐕMeme$ecツ <img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"></h1> 
 
-<p align="left">
-    <p ><img src="https://komarev.com/ghpvc/?username=MemeSec&label=ᴠɪꜱɪᴛᴏʀꜱ%20&color=0e75b6&style=flat" alt="MemeSec"/></p>
-</p>
-
+![](https://komarev.com/ghpvc/?username=MemeSec&color=000000&label=ᴠɪꜱɪᴛᴏʀꜱ&style=flat)
 
 **〄** ɪ’ᴍ ᴍᴇᴍᴇ$ᴇᴄ                                                                              
 **〄** ʟɪɴᴜx ᴜꜱᴇʀ                                            
