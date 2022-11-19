@@ -1,6 +1,9 @@
 <h1 align="center"><img src="https://github.com/MemeSec/MemeSec/blob/main/files/anarchy.png" width="50px"> ꐕMeme$ecツ <img src="https://github.com/MemeSec/MemeSec/blob/main/files/anarchy.png" width="50px"></h1> 
+ 
 
-![](https://komarev.com/ghpvc/?username=MemeSec&color=000000&label=ᴠɪꜱɪᴛᴏʀꜱ&style=flat)
+![](https://img.shields.io/github/stars/MemeSec?color=000000&style=social)
+![](https://img.shields.io/github/followers/MemeSec?color=000000&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=MemeSec)
 
 **〄** ᴍᴇᴍᴇ$ᴇᴄ                                                                              
 **〄** ʟɪɴᴜx ᴜꜱᴇʀ                                            
