@@ -8,7 +8,9 @@
 **〄** ɪ’ᴍ ᴍᴇᴍᴇ$ᴇᴄ                                                                              
 **〄** ʟɪɴᴜx ᴜꜱᴇʀ                                            
 **〄** ᴀʀᴄʜ, ʙʟᴀᴄᴋ-ᴀʀᴄʜ                                                                             
-**〄** ᴘʏᴛʜᴏɴ ᴘʀᴏɢʀᴀᴍᴍᴇʀ                                               
+**〄** ᴘʏᴛʜᴏɴ ᴘʀᴏɢʀᴀᴍᴍᴇʀ  
+<br>
+**▣** ᴍʏ ᴏʟᴅ ᴀᴄᴄᴏᴜɴᴛ ↝ [〃ꜱʟᴀᴠᴘʜ⍣](https://github.com/SlavPH)
                                  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MemeSec&theme=onestar&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
