@@ -3,7 +3,6 @@
 
 ![](https://img.shields.io/github/stars/MemeSec?color=000000&style=social)
 ![](https://img.shields.io/github/followers/MemeSec?color=000000&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=MemeSec)
 
 **〄** ᴍᴇᴍᴇ$ᴇᴄ                                                                              
 **〄** ʟɪɴᴜx ᴜꜱᴇʀ                                            
