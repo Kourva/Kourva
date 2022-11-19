@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"> ꐕMeme$ecツ <img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"></h1> 
 
+<img src="https://hdwallsource.com/img/2021/8/shrek-meme-wallpaper-73806-76481-hd-wallpapers.jpg" width="100%">
+
 ![](https://komarev.com/ghpvc/?username=MemeSec&color=000000&label=ᴠɪꜱɪᴛᴏʀꜱ&style=flat)
 
 **〄** ᴍᴇᴍᴇ$ᴇᴄ                                                                              
@@ -9,6 +11,9 @@
 <br>
 **▣** ᴍʏ ᴏʟᴅ ᴀᴄᴄᴏᴜɴᴛ ↝ [〃ꜱʟᴀᴠᴘʜ⍣](https://github.com/SlavPH)
 <br>
+
+
+
 **⇱** ᴏɴᴄᴇ ᴜᴘᴏɴ ᴀ ᴛɪᴍᴇ, ɪɴ ᴀ ꜰᴀʀ ᴀᴡᴀʏ ꜱᴡᴀᴍᴘ, ᴛʜᴇʀᴇ ʟɪᴠᴇᴅ ᴀɴ ᴏɢʀᴇ ɴᴀᴍᴇᴅ ꜱʜʀᴇᴋ ᴡʜᴏꜱᴇ ᴘʀᴇᴄɪᴏᴜꜱ ꜱᴏʟɪᴛᴜᴅᴇ ɪꜱ ꜱᴜᴅᴅᴇɴʟʏ ꜱʜᴀᴛᴛᴇʀᴇᴅ ʙʏ ᴀɴ ɪɴᴠᴀꜱɪᴏɴ ᴏꜰ ᴀɴɴᴏʏɪɴɢ ꜰᴀɪʀʏ ᴛᴀʟᴇ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.                                
 ᴛʜᴇʏ ᴡᴇʀᴇ ᴀʟʟ ʙᴀɴɪꜱʜᴇᴅ ꜰʀᴏᴍ ᴛʜᴇɪʀ ᴋɪɴɢᴅᴏᴍ ʙʏ ᴛʜᴇ ᴇᴠɪʟ ʟᴏʀᴅ ꜰᴀʀQᴜᴀᴀᴅ.                                                    
 ᴅᴇᴛᴇʀᴍɪɴᴇᴅ ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇɪʀ ʜᴏᴍᴇ -- ɴᴏᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ʜɪꜱ -- ꜱʜʀᴇᴋ ᴄᴜᴛꜱ ᴀ ᴅᴇᴀʟ ᴡɪᴛʜ ꜰᴀʀQᴜᴀᴀᴅ ᴀɴᴅ ꜱᴇᴛꜱ ᴏᴜᴛ ᴛᴏ ʀᴇꜱᴄᴜᴇ ᴘʀɪɴᴄᴇꜱꜱ ꜰɪᴏɴᴀ ᴛᴏ ʙᴇ ꜰᴀʀQᴜᴀᴀᴅ'ꜱ ʙʀɪᴅᴇ.                        
