@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"> ꐕMeme$ecツ <img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"></h1> 
 
-<img src="https://hdwallsource.com/img/2021/8/shrek-meme-wallpaper-73806-76481-hd-wallpapers.jpg" width="100%">
-
 ![](https://komarev.com/ghpvc/?username=MemeSec&color=000000&label=ᴠɪꜱɪᴛᴏʀꜱ&style=flat)
 
 **〄** ᴍᴇᴍᴇ$ᴇᴄ                                                                              
