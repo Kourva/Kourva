@@ -21,7 +21,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MemeSec&theme=onestar&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+![](https://github.com/MemeSec/MemeSec/blob/main/files/snake.svg)
 ---  
 <a href="https://github.com/MemeSec/github-readme-stats"><img alt="Skrek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MemeSec&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/MemeSec/github-readme-stats"><img alt="Shrek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
 
