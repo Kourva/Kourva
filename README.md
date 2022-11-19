@@ -19,11 +19,6 @@
 ᴅᴇᴛᴇʀᴍɪɴᴇᴅ ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇɪʀ ʜᴏᴍᴇ -- ɴᴏᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ʜɪꜱ -- ꜱʜʀᴇᴋ ᴄᴜᴛꜱ ᴀ ᴅᴇᴀʟ ᴡɪᴛʜ ꜰᴀʀQᴜᴀᴀᴅ ᴀɴᴅ ꜱᴇᴛꜱ ᴏᴜᴛ ᴛᴏ ʀᴇꜱᴄᴜᴇ ᴘʀɪɴᴄᴇꜱꜱ ꜰɪᴏɴᴀ ᴛᴏ ʙᴇ ꜰᴀʀQᴜᴀᴀᴅ'ꜱ ʙʀɪᴅᴇ.                        
 ʀᴇꜱᴄᴜɪɴɢ ᴛʜᴇ ᴘʀɪɴᴄᴇꜱꜱ ᴍᴀʏ ʙᴇ ꜱᴍᴀʟʟ ᴄᴏᴍᴘᴀʀᴇᴅ ᴛᴏ ʜᴇʀ ᴅᴇᴇᴘ, ᴅᴀʀᴋ ꜱᴇᴄʀᴇᴛ. **⇲**
 
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MemeSec&theme=onestar&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github.com/MemeSec/MemeSec/blob/main/files/snake.svg)
 ---  
 <a href="https://github.com/MemeSec/github-readme-stats"><img alt="Skrek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MemeSec&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/MemeSec/github-readme-stats"><img alt="Shrek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>                              
 
