@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"> ꐕMeme$ecツ <img src="https://www.clipartmax.com/png/full/342-3429484_anarchy-png-black-and-white-anarchy-symbol.png" width="50px"></h1> 
+<h1 align="center"><img src="https://github.com/MemeSec/MemeSec/blob/main/files/anarchy.png" width="50px"> ꐕMeme$ecツ <img src="https://github.com/MemeSec/MemeSec/blob/main/files/anarchy.png" width="50px"></h1> 
 
 ![](https://komarev.com/ghpvc/?username=MemeSec&color=000000&label=ᴠɪꜱɪᴛᴏʀꜱ&style=flat)
 
