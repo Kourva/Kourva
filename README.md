@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://github.com/MemeSec/MemeSec/blob/main/files/anarchy.png" width="50px"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&duration=2000&pause=1000&color=FFFFFF&width=110&height=26&lines=%EA%90%95Meme%24ec%E3%83%84" alt="Typing SVG" /></a> <img src="https://github.com/MemeSec/MemeSec/blob/main/files/anarchy.png" width="50px"></h1> 
  
 
+<a href="#"><img align="right" src="https://github.com/MemeSec/MemeSec/blob/main/files/pngfind.com-filthy-frank-png-267163.png" width="200 " height="200" /></a>
+
 ![](https://img.shields.io/github/stars/MemeSec?color=000000&style=social)
 ![](https://img.shields.io/github/followers/MemeSec?color=000000&style=social)
 
