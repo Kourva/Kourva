@@ -14,7 +14,6 @@
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=MemeSec&column=-1&theme=oldie&no-bg=true&no-frame=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&hide_border=true&theme=transparent)
 
 
 **⇱** ᴏɴᴄᴇ ᴜᴘᴏɴ ᴀ ᴛɪᴍᴇ, ɪɴ ᴀ ꜰᴀʀ ᴀᴡᴀʏ ꜱᴡᴀᴍᴘ, ᴛʜᴇʀᴇ ʟɪᴠᴇᴅ ᴀɴ ᴏɢʀᴇ ɴᴀᴍᴇᴅ ꜱʜʀᴇᴋ ᴡʜᴏꜱᴇ ᴘʀᴇᴄɪᴏᴜꜱ ꜱᴏʟɪᴛᴜᴅᴇ ɪꜱ ꜱᴜᴅᴅᴇɴʟʏ ꜱʜᴀᴛᴛᴇʀᴇᴅ ʙʏ ᴀɴ ɪɴᴠᴀꜱɪᴏɴ ᴏꜰ ᴀɴɴᴏʏɪɴɢ ꜰᴀɪʀʏ ᴛᴀʟᴇ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.                                
@@ -22,7 +21,7 @@
 ᴅᴇᴛᴇʀᴍɪɴᴇᴅ ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇɪʀ ʜᴏᴍᴇ -- ɴᴏᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ʜɪꜱ -- ꜱʜʀᴇᴋ ᴄᴜᴛꜱ ᴀ ᴅᴇᴀʟ ᴡɪᴛʜ ꜰᴀʀQᴜᴀᴀᴅ ᴀɴᴅ ꜱᴇᴛꜱ ᴏᴜᴛ ᴛᴏ ʀᴇꜱᴄᴜᴇ ᴘʀɪɴᴄᴇꜱꜱ ꜰɪᴏɴᴀ ᴛᴏ ʙᴇ ꜰᴀʀQᴜᴀᴀᴅ'ꜱ ʙʀɪᴅᴇ.                        
 ʀᴇꜱᴄᴜɪɴɢ ᴛʜᴇ ᴘʀɪɴᴄᴇꜱꜱ ᴍᴀʏ ʙᴇ ꜱᴍᴀʟʟ ᴄᴏᴍᴘᴀʀᴇᴅ ᴛᴏ ʜᴇʀ ᴅᴇᴇᴘ, ᴅᴀʀᴋ ꜱᴇᴄʀᴇᴛ. **⇲**
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&hide_border=true&theme=transparent)
 ---
 
 ![](https://github.com/MemeSec/MemeSec/blob/main/files/activity.png)
