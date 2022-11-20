@@ -18,7 +18,9 @@
 ᴅᴇᴛᴇʀᴍɪɴᴇᴅ ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇɪʀ ʜᴏᴍᴇ -- ɴᴏᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ʜɪꜱ -- ꜱʜʀᴇᴋ ᴄᴜᴛꜱ ᴀ ᴅᴇᴀʟ ᴡɪᴛʜ ꜰᴀʀQᴜᴀᴀᴅ ᴀɴᴅ ꜱᴇᴛꜱ ᴏᴜᴛ ᴛᴏ ʀᴇꜱᴄᴜᴇ ᴘʀɪɴᴄᴇꜱꜱ ꜰɪᴏɴᴀ ᴛᴏ ʙᴇ ꜰᴀʀQᴜᴀᴀᴅ'ꜱ ʙʀɪᴅᴇ.                        
 ʀᴇꜱᴄᴜɪɴɢ ᴛʜᴇ ᴘʀɪɴᴄᴇꜱꜱ ᴍᴀʏ ʙᴇ ꜱᴍᴀʟʟ ᴄᴏᴍᴘᴀʀᴇᴅ ᴛᴏ ʜᴇʀ ᴅᴇᴇᴘ, ᴅᴀʀᴋ ꜱᴇᴄʀᴇᴛ. **⇲**
 
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1&theme=oldie&no-bg=true&no-frame=true)
 ---
+
 ![](https://github.com/MemeSec/MemeSec/blob/main/files/activity.png)
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=000000)
