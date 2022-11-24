@@ -21,7 +21,8 @@
 ᴅᴇᴛᴇʀᴍɪɴᴇᴅ ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇɪʀ ʜᴏᴍᴇ -- ɴᴏᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ʜɪꜱ -- ꜱʜʀᴇᴋ ᴄᴜᴛꜱ ᴀ ᴅᴇᴀʟ ᴡɪᴛʜ ꜰᴀʀQᴜᴀᴀᴅ ᴀɴᴅ ꜱᴇᴛꜱ ᴏᴜᴛ ᴛᴏ ʀᴇꜱᴄᴜᴇ ᴘʀɪɴᴄᴇꜱꜱ ꜰɪᴏɴᴀ ᴛᴏ ʙᴇ ꜰᴀʀQᴜᴀᴀᴅ'ꜱ ʙʀɪᴅᴇ.                        
 ʀᴇꜱᴄᴜɪɴɢ ᴛʜᴇ ᴘʀɪɴᴄᴇꜱꜱ ᴍᴀʏ ʙᴇ ꜱᴍᴀʟʟ ᴄᴏᴍᴘᴀʀᴇᴅ ᴛᴏ ʜᴇʀ ᴅᴇᴇᴘ, ᴅᴀʀᴋ ꜱᴇᴄʀᴇᴛ. **⇲**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&hide_border=true&theme=transparent)
+![My Status](https://github-readme-stats.vercel.app/api?username=MemeSec&show_icons=true&count_private=true&theme=transparent&hide_border=true&no-bg=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&hide_border=true&theme=transparent&layout=compact&langs_count=8)
 ---
 
 ![](https://github.com/MemeSec/MemeSec/blob/main/files/activity.png)
