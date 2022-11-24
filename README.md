@@ -13,7 +13,7 @@
 **▣** ᴏʟᴅ ᴀᴄᴄᴏᴜɴᴛ ↝ [〃ꜱʟᴀᴠᴘʜ⍣](https://github.com/SlavPH)
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=MemeSec&column=-1&theme=oldie&no-bg=true&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=MemeSec&column=-1&theme=radical&no-bg=true&no-frame=true)
 
 
 **⇱** ᴏɴᴄᴇ ᴜᴘᴏɴ ᴀ ᴛɪᴍᴇ, ɪɴ ᴀ ꜰᴀʀ ᴀᴡᴀʏ ꜱᴡᴀᴍᴘ, ᴛʜᴇʀᴇ ʟɪᴠᴇᴅ ᴀɴ ᴏɢʀᴇ ɴᴀᴍᴇᴅ ꜱʜʀᴇᴋ ᴡʜᴏꜱᴇ ᴘʀᴇᴄɪᴏᴜꜱ ꜱᴏʟɪᴛᴜᴅᴇ ɪꜱ ꜱᴜᴅᴅᴇɴʟʏ ꜱʜᴀᴛᴛᴇʀᴇᴅ ʙʏ ᴀɴ ɪɴᴠᴀꜱɪᴏɴ ᴏꜰ ᴀɴɴᴏʏɪɴɢ ꜰᴀɪʀʏ ᴛᴀʟᴇ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.                                
