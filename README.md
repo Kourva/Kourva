@@ -13,7 +13,7 @@ MemeSec <- function() {
     name <- "MemeSec"
     paste("Hi I Am", name)
 
-}
+}; MemeSec()
 ``` 
 | Languages I Use |
 | --- |
@@ -46,7 +46,7 @@ for Language in ["Python", "R", "Shell", "Html", "Css", "C++"]:
 | 〄 Links |
 | --- |
 ```c++
-include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
