@@ -4,7 +4,7 @@
 
 <a href="#"><img align="right" src="https://github.com/MemeSec/MemeSec/blob/main/files/meme1.png" width="200 " height="200" /></a>
 
-| About Me |
+| MemeSec |
 | --- |
 ```r
 #!/usr/bin/env Rscript
@@ -37,9 +37,9 @@ for Language in ["Python", "R", "Shell", "Html", "Css", "C++"]:
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeSec&hide_border=true&theme=transparent&layout=compact&langs_count=8) | <a href="#"><img align="right" src="https://github.com/MemeSec/MemeSec/blob/main/files/snake.svg" width="600" height="200" /></a> |
 
 ---
-| 〄 Trophies | 〄 Distro |
+| 〄 Trophies | 〄 I Use Arch BTW |
 | --- | --- |
-| ![](https://github-profile-trophy.vercel.app/?username=MemeSec&column=-1&theme=radical&no-bg=true&no-frame=true) | ![](https://komarev.com/ghpvc/?username=your-github-username) | <img src="https://github.com/MemeSec/MemeSec/blob/main/files/arch.png" width="200" height="200" /> |
+| ![](https://github-profile-trophy.vercel.app/?username=MemeSec&column=-1&theme=radical&no-bg=true&no-frame=true) | <img src="https://github.com/MemeSec/MemeSec/blob/main/files/arch.png" width="130" height="130" /> | 
 
 
 ---
