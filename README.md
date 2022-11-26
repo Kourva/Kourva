@@ -56,7 +56,10 @@ int main() {
     return 0;
 }
 ```
-
+---
+![](https://img.shields.io/github/followers/MemeSec?logoColor=blue&style=social)
+![](https://img.shields.io/github/stars/MemeSec?logoColor=blue&style=social)
+![](https://img.shields.io/badge/Telegram-slpxd-blue?logo=telegram&style=social&logoColor=blue)
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
