@@ -21,8 +21,10 @@ MemeSec <- function() {
 #!/usr/bin/env python3
 
 Languages = []
-for Language in ["Python", "R", "Shell", "Html", "Css", "C++"]:
+for Language in ["Python", "R", "Shell", "Html", "Css", "C++", "JavaScript"]:
     Languages.append(Language)
+
+Main_Language = "Python"
 ```
 ---
 | 〄 Current Strek | 〄 GitHub Stats | 
