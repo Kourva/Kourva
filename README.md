@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FF0000&width=230&lines=%EA%90%95+Welcome+My+Friend+%EA%90%95" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=4000&pause=1000&color=FF0000&width=230&lines=%E2%98%A6+Welcome+My+Friend+%E2%98%A6" alt="Typing SVG" /></a>
 </h1> 
 
 <a href="#"><img align="right" src="https://github.com/Izolabela/Izolabela/blob/main/files/meme1.png" width="200 " height="200" /></a>
