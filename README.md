@@ -4,7 +4,7 @@
 
 <a href="#"><img align="right" src="https://github.com/Izolabela/Izolabela/blob/main/files/meme1.png" width="200 " height="200" /></a>
 
-| Izolabela |
+| ☦ 𝕴𝖟𝖔𝖑𝖆𝖇𝖊𝖑𝖆 |
 | --- |
 ```r
 #!/usr/bin/env Rscript
@@ -15,7 +15,7 @@ Izolabela <- function() {
 
 }; Izolabela()
 ``` 
-| Languages I Use |
+| ☦ 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 𝕴 𝖚𝖘𝖊 |
 | --- |
 ```python
 #!/usr/bin/env python3
@@ -27,25 +27,25 @@ for Language in ["Python", "R", "Shell", "Html", "Css", "C++", "JavaScript"]:
 Main_Language = "Python"
 ```
 ---
-| 〄 Current Strek | 〄 GitHub Stats | 
+| ☦ 𝕮𝖚𝖗𝖗𝖊𝖓𝖙 𝕾𝖙𝖗𝖊𝖆𝖐 | ☦ 𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖘 | 
 | --- | --- |
 | ![](https://streak-stats.demolab.com?user=Izolabela&theme=github-dark-blue&hide_border=true&background=DD272700) | ![](https://github-readme-stats.vercel.app/api?username=Izolabela&show_icons=true&theme=transparent&hide_border=true) |
 
 ---
 
 
-| 〄 Most Used Languages | 〄 Let's Play Snake Game :D |
+| ☦ 𝕸𝖔𝖘𝖙 𝖀𝖘𝖊𝖉 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 | ☦ 𝕳𝖆𝖛𝖊 𝖄𝖔𝖚 𝕰𝖛𝖊𝖗 𝖕𝖑𝖆𝖞𝖊𝖉 𝕾𝖓𝖆𝖐𝖊 𝖌𝖆𝖒𝖊? |
 | --- | --- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Izolabela&hide_border=true&theme=transparent&layout=compact&langs_count=8) | <a href="#"><img align="right" src="https://github.com/Izolabela/Izolabela/blob/main/files/snake.svg" width="600" height="200" /></a> |
 
 ---
-| 〄 Trophies | 〄 I Use Arch BTW |
+| ☦ 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘 | ☦ 𝕴 𝖀𝖘𝖊 𝕬𝖗𝖈𝖍 𝕭𝕿𝖂 |
 | --- | --- |
 | ![](https://github-profile-trophy.vercel.app/?username=Izolabela&column=-1&theme=radical&no-bg=true&no-frame=true) | <img src="https://github.com/Izolabela/Izolabela/blob/main/files/arch.png" width="130" height="130" /> | 
 
 
 ---
-| 〄 Links |
+| ☦ 𝕷𝖎𝖓𝖐𝖘 |
 | --- |
 ```c++
 #include <iostream>
