@@ -36,12 +36,12 @@ Main_Language = "Python"
 
 | ✞ 𝕸𝖔𝖘𝖙 𝖀𝖘𝖊𝖉 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 | ✞ 𝕳𝖆𝖛𝖊 𝖄𝖔𝖚 𝕰𝖛𝖊𝖗 𝖕𝖑𝖆𝖞𝖊𝖉 𝕾𝖓𝖆𝖐𝖊 𝖌𝖆𝖒𝖊? |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Izolabela&hide_border=true&theme=transparent&layout=compact&langs_count=8) | <a href="#"><img align="right" src="https://github.com/Izolabela/Izolabela/blob/main/files/snake.svg" width="600" height="200" /></a> |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Izolabela&hide_border=true&theme=transparent&layout=compact&langs_count=10) | <a href="#"><img align="right" src="https://github.com/Izolabela/Izolabela/blob/main/files/snake.svg" width="600" height="200" /></a> |
 
 ---
 | ✞ 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘 | ✞ 𝕴 𝖀𝖘𝖊 𝕬𝖗𝖈𝖍 𝕭𝕿𝖂 |
 | --- | --- |
-| ![](https://github-profile-trophy.vercel.app/?username=Izolabela&column=-1&theme=radical&no-bg=true&no-frame=true) | <img src="https://github.com/Izolabela/Izolabela/blob/main/files/arch.png" width="130" height="130" /> | 
+| ![](https://github-profile-trophy.vercel.app/?username=Izolabela&column=6&theme=radical&no-bg=true&no-frame=true) | <img src="https://github.com/Izolabela/Izolabela/blob/main/files/arch.png" width="130" height="130" /> | 
 
 
 ---
