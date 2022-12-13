@@ -6,6 +6,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Izolabela&column=6&theme=radical&no-bg=true&no-frame=true" />
 
+[![](https://img.shields.io/github/followers/Izolabela?logoColor=black&style=social)](#)
+[![](https://img.shields.io/github/stars/Izolabela?logo=TrustPilot&logoColor=red&style=social)](#)
+[![](https://img.shields.io/badge/Telegram-Izolabela-blue?logo=telegram&style=social&logoColor=blue)](https://izolabela.t.me)
+[![](https://img.shields.io/badge/Website-izolabela.github.io-blue?style=social&logo=Aiqfome)](https://izolabela.github.io)
+[![](https://img.shields.io/badge/Github-Old%20account-red?style=social&logo=github)](https://github.com/SlavPH)
 
 <h1 align="left"> ✞ 𝕴𝖟𝖔𝖑𝖆𝖇𝖊𝖑𝖆 </h1>
 
@@ -39,6 +44,7 @@
                                               .
 ``` 
 
+
 <h1 align="center"> ✞ 𝕲𝖎𝖙𝕳𝖚𝖇 𝕾𝖙𝖆𝖙𝖘 </h3>
 
 <p align="center">
@@ -50,26 +56,5 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Izolabela&show_icons=true&theme=transparent&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izolabela&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
 <br>
-
-
-<h1> ✞ 𝕷𝖎𝖓𝖐𝖘 </h1>
-
-```c++
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "TELEGARM"    << "https://Izolabela.t.me"       << endl;
-    cout << "GITHUB"      << "https://github.com/Izolabela" << endl;
-    cout << "Old Account" << "https://github.com/SlavPH"    << endl;
-    return 0;
-}
-```
-
----
-[![](https://img.shields.io/github/followers/Izolabela?logoColor=black&style=social)](#)
-[![](https://img.shields.io/github/stars/Izolabela?logo=TrustPilot&logoColor=red&style=social)](#)
-[![](https://img.shields.io/badge/Telegram-Izolabela-blue?logo=telegram&style=social&logoColor=blue)](https://izolabela.t.me)
-[![](https://img.shields.io/badge/Website-izolabela.github.io-blue?style=social&logo=Aiqfome)](https://izolabela.github.io)
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
