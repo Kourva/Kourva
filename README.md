@@ -18,12 +18,12 @@
          |  __  /   /                    _LT/l_L_                  ▀▀▀·▀▀▀ • ▀█▄▀▪.▀▀▀  ▀  ▀ ·▀▀▀▀  ▀▀▀ .▀▀▀  ▀  ▀ 
         \ \  __  /                     _LLl/L_T_lL_                :: #!/usr/bin/env python3
             -      _T/L              _LT|L/_|__L_|_L_              :: import random, sys, os, time
-                 _Ll/l_L_          _TL|_T/_L_|__T__|_l_            :: key = "1a2richsq3z4tgbjup56kvwodfnx78ml9ye0"
-               _TLl/T_l|_L_      _LL|_Tl/_|__l___L__L_|L_          :: while True:
-             _LT_L/L_|_L_l_L_  _'|_|_|T/_L_l__T _ l__|__|L_        ::     sys.stdout.write("\r%s" %("".join(random.choices(key, k=10))))
-           _Tl_L|/_|__|_|__T _LlT_|_Ll/_l_ _|__[ ]__|__|_l_L_      ::     sys.stdout.flush()
-   _ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_    ::     time.sleep(0.5)
-        . ";;:;.;;:;.;;;;_Ll_|__|_l_/__|___l__|__|___l__L_|_l_LL_  
+                 _Ll/l_L_          _TL|_T/_L_|__T__|_l_            :: key = "1a2richsq3z4tgbjup56kvwodfnx78ml9ye0" 
+               _TLl/T_l|_L_      _LL|_Tl/_|__l___L__L_|L_          :: temp = "".join(random.choices(key, k=10)
+             _LT_L/L_|_L_l_L_  _'|_|_|T/_L_l__T _ l__|__|L_        :: while True:
+           _Tl_L|/_|__|_|__T _LlT_|_Ll/_l_ _|__[ ]__|__|_l_L_      ::     sys.stdout.write("\r%s" %(temp)))
+   _ ___ _LT_l_l/|__|__l_T _T_L|_|_|l/___|_ _|__l__|__|__|_T_l_    ::     sys.stdout.flush()
+        . ";;:;.;;:;.;;;;_Ll_|__|_l_/__|___l__|__|___l__L_|_l_LL_  ::     time.sleep(0.3)    
           .  .:::.:::..:::.";;;;:;;:.;.;;;;,;;:,;;;.;:,;;,;::;:".' 
               . ,::.:::.:..:.: ::.::::;..:,:::,::::.::::.:;:.:..   
                  . .:.:::.:::.:::: .::.::. :::.::::..::..:.::. . . 
