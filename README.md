@@ -43,13 +43,13 @@
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=Izolabela&theme=github-dark-blue&hide_border=true&background=DD272700" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Izolabela&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izolabela&hide_border=true&theme=transparent&layout=flat&langs_count=10" />
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Izolabela&show_icons=true&theme=transparent&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izolabela&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
 <br>
 
 
