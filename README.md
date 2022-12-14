@@ -57,7 +57,7 @@
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" ></img>
 
-[![](https://img.shields.io/github/followers/Izolabela?logoColor=black&style=social)](#)
+[![](https://img.shields.io/github/followers/Izolabela?logoColor=black&style=social)](https://github.com/Izolabela?tab=followers)
 [![](https://img.shields.io/github/stars/Izolabela?logo=TrustPilot&logoColor=red&style=social)](#)
 [![](https://img.shields.io/badge/Telegram-Izolabela-blue?logo=telegram&style=social&logoColor=blue)](https://izolabela.t.me)
 [![](https://img.shields.io/badge/Website-izolabela.github.io-blue?style=social&logo=Aiqfome)](https://izolabela.github.io)
