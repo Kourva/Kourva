@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10&pause=100&color=FFFFFF&width=435&lines=+%E2%98%A6+01010010100101010101011010101010+%E2%98%A6;%E2%98%A6+11010101010101001010101010010101+%E2%98%A6;+%E2%98%A6+01010101001010101100101010101010+%E2%98%A6;%E2%98%A6+01010101010101010101110101010101+%E2%98%A6;%E2%98%A6_01010010010011101011010010010011+%E2%98%A6" alt="***" /></a>
+<a href="https://izolabela.github.io"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+mono&duration=1&pause=400&color=F7F7F7&width=140&lines=%E2%8B%86+Izolabela+%E2%8B%86;%E2%8B%86+iZolabela+%E2%8B%86;%E2%8B%86+izOlabela+%E2%8B%86;%E2%8B%86+izoLabela+%E2%8B%86;%E2%8B%86+izolAbela+%E2%8B%86;%E2%8B%86+izolaBela+%E2%8B%86;%E2%8B%86+izolabEla+%E2%8B%86;%E2%8B%86+izolabeLa+%E2%8B%86;%E2%8B%86+izolabelA+%E2%8B%86" alt="Izolabela" /></a>
 </h1> 
 
 <!-- <a href="#"><img align="right" src="https://github.com/Izolabela/Izolabela/blob/main/files/meme1.png" width="160 " height="160" /></a> -->
