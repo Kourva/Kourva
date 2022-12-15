@@ -8,8 +8,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Izolabela&column=6&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
-<h1 align="left"> ✞ 𝕴𝖟𝖔𝖑𝖆𝖇𝖊𝖑𝖆 </h1>
-
 
 
 ```python
