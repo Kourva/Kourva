@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://Kourva.github.io">
-        <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+mono&duration=100&pause=4000&color=FF00FF&width=140&lines=%E2%8B%86+Kourva+%E2%8B%86" alt="Kourva" />
+        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=F70000&width=135&lines=%3C%2F++Kourva++%2F%3E" />
     </a>
 </h1>
 
