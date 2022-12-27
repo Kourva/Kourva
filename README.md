@@ -24,7 +24,7 @@
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=radical&no-bg=true&no-frame=true&column=6&row=1" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" /> |
 
 
-| Streak Stats | Readme Stats | 
+| Streak Stats | Account Stats | 
 | ---- | ---- |
 | <img align="left" src="https://streak-stats.demolab.com?user=Kourva&theme=github-dark-blue&hide_border=true&background=DD272700" /> | <img src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true" /> |
 
