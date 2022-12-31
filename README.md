@@ -34,5 +34,6 @@
 [![](https://img.shields.io/badge/Website-Kourva.github.io-blue?style=social&logo=Aiqfome)](https://Kourva.github.io)
 [![](https://img.shields.io/badge/Github-Old%20account-red?style=social&logo=github)](https://github.com/SlavPH)
 
-https://user-images.githubusercontent.com/118578799/210118468-8149b03b-6aba-4dcb-a421-f00c8c8e1fb0.mp4
+<!-- https://user-images.githubusercontent.com/118578799/210118468-8149b03b-6aba-4dcb-a421-f00c8c8e1fb0.mp4 -->
+
 
