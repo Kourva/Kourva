@@ -1,22 +1,10 @@
 <h1 align="center">
     <a href="https://Kourva.github.io">
-        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=F70000&width=135&lines=%3C%2F++Kourva++%2F%3E" />
+        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=00ff00&width=135&lines=%3C%2F++Kourva++%2F%3E" />
     </a>
 </h1>
 
-```python
-:: Kourva                                     
-                                             
-    * Python Developer                       ██   ██  ██████  ██    ██ ██████  ██    ██  █████ 
-    * Artix linux user                       ██  ██  ██    ██ ██    ██ ██   ██ ██    ██ ██   ██ 
-    * Telegram bots                          █████   ██    ██ ██    ██ ██████  ██    ██ ███████ 
-    * Android apps                           ██  ██  ██    ██ ██    ██ ██   ██  ██  ██  ██   ██
-                                             ██   ██  ██████   ██████  ██   ██   ████   ██   ██ 
-@ Python                                     
-@ Kivy                                       ██████████████████████████████████████████████████
-@ Kivymd
-@ Linux
-```
+<img src="https://user-images.githubusercontent.com/118578799/210282839-32e5a530-ac63-4595-aaca-846d3bee6511.jpg" height=200 width=100% />
 
 
 | Trophies | Languages | 
@@ -34,7 +22,4 @@
 [![](https://img.shields.io/badge/Website-Kourva.github.io-blue?style=social&logo=Aiqfome)](https://Kourva.github.io)
 [![](https://img.shields.io/badge/Github-Old%20account-red?style=social&logo=github)](https://github.com/SlavPH)
 [![](https://img.shields.io/badge/Who%20I%20Am-Do%20You%3F-green?style=social&logo=github)](https://github.com/doiknowwhoyoui)
-
-<!-- https://user-images.githubusercontent.com/118578799/210118468-8149b03b-6aba-4dcb-a421-f00c8c8e1fb0.mp4 -->
-
 
