@@ -21,5 +21,5 @@
 [![](https://img.shields.io/badge/Telegram-Kourva-blue?logo=telegram&style=social&logoColor=blue)](https://Kourva.t.me)
 [![](https://img.shields.io/badge/Website-Kourva.github.io-blue?style=social&logo=Aiqfome)](https://Kourva.github.io)
 [![](https://img.shields.io/badge/Github-Old%20account-red?style=social&logo=github)](https://github.com/SlavPH)
-[![](https://img.shields.io/badge/Who%20I%20Am-Do%20You%3F-green?style=social&logo=github)](https://github.com/doiknowwhoyoui)
+[![](https://img.shields.io/badge/Who%20I%20Am-Do%20You%3F-green?style=social&logo=github)](https://github.com/DoIKnowWhoYouI)
 
