@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/118578799/210282839-32e5a530-ac63-4595-aaca-846d3bee6511.jpg" height=200 width=100% />
+<img src="https://user-images.githubusercontent.com/118578799/210283879-bf8f25ba-f0a4-47da-9f63-b0b97f856251.png" height=200 width=100%/>
 
 
 | Trophies | Languages | 
