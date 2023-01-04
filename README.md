@@ -4,9 +4,6 @@
     </a>
 </h1>
 
-<img src="https://user-images.githubusercontent.com/118578799/210283879-bf8f25ba-f0a4-47da-9f63-b0b97f856251.png" height=200 width=100%/>
-
-
 | Trophies | Languages | 
 | ---- | ---- |
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=radical&no-bg=true&no-frame=true&column=6&row=1" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" /> |
