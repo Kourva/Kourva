@@ -11,7 +11,7 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=matrix&no-bg=true&no-frame=false&column=6&row=1&margin-w=10" />
     <br><br>
     <p>⤟ Привет. я курва ⤠</p>
-    <p>⤟ I'm a python developer, Linux user, Making tools with Python to automate some stuff ⤠</p>
+    <p>⤟ I'm a Python Developer, Linux user, Making tools with Python to automate some stuff ⤠</p>
     <p>⤟ Hope you enjoy my tools and stuff ⤠</p>
     <br>
 </h3>
@@ -38,9 +38,9 @@
 <!-- Github Stats and Most used languages-->
 <h3 align="center">
     <br>
-    <p>⤟ Github stats and most used languages ⤠</p>
+    <p>⤟ Github Stats and Most Used Languages ⤠</p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=00ff00" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
     </p>
 </h3>
 
