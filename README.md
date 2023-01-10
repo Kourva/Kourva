@@ -1,10 +1,9 @@
-<!-- Intro name -->
+<!-- Intro text -->
 <h1 align="center">
     <a href="https://Kourva.github.io">
         <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=00ff00&width=135&lines=%3C%2F++Kourva++%2F%3E" />
     </a>
 </h1>
-
 
 <!-- Trophies -->
 <h3 align="center">
@@ -15,7 +14,6 @@
     <p>⤟ Hope you enjoy my tools and stuff ⤠</p>
     <br>
 </h3>
-
 
 <!-- Streak stats -->
 <p align="center">
@@ -75,4 +73,7 @@
     <a href="https://github.com/evil-kiss">
         <img src="https://img.shields.io/badge/Evil-Kiss-green?style=social&logo=github">
     </a>
+    <br><br><br><br>
+    <img align="center" src="https://user-images.githubusercontent.com/118578799/211487717-f3ec0df4-bc40-4abb-a0a2-1afe7d205d42.png">
 </h3>
+
