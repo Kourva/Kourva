@@ -9,7 +9,7 @@
 <!-- Trophies -->
 <h3 align="center">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=matrix&no-bg=true&no-frame=false&column=6&row=1&margin-w=10" />
-    <br><br>
+    <br><br><br>
     <p>⤟ Привет. я курва ⤠</p>
     <p>⤟ I'm a Python Developer, Linux user, Making tools with Python to automate some stuff ⤠</p>
     <p>⤟ Hope you enjoy my tools and stuff ⤠</p>
