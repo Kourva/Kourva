@@ -40,7 +40,7 @@
     <br>
     <p>⤟ Github stats and most used languages ⤠</p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
     </p>
 </h3>
 
