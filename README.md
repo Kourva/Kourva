@@ -63,6 +63,9 @@
     <a href="https://github.com/SlavPH">
         <img src="https://img.shields.io/badge/Github-Old%account-red?style=social&logo=github">
     </a>
+     <a href="https://instagram.com/realkourva">
+        <img src="https://img.shields.io/badge/Instagram-realkourva-red?style=social&logo=instagram">
+    </a>
     <br>
     <p> ⤟ Music and Art ⤠ </p>
     <a href="https://t.me/GNIChannel">
@@ -71,7 +74,7 @@
     <a href="https://t.me/ChefVomit">
         <img src="https://img.shields.io/badge/ChefVomit-New-black?style=social&logo=AppleMusic&logoColor=violet">
     </a>
-    <br>
+    <br><br>
     <p> ⤟ Shoutout to my bros ⤠ </p>
     <a href="https://github.com/DoIKnowWhoYouI">
         <img src="https://img.shields.io/badge/Who%20I%20Am-Do%20You%3F-green?style=social&logo=github">
