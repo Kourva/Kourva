@@ -11,6 +11,7 @@
     <br><br><br>
     <p>⤟ Привет. я курва ⤠</p>
     <p>⤟ I'm a Python Developer, Linux user, Making tools with Python to automate some stuff ⤠</p>
+    <p>⤟ I also do music and art. You can see my works below in the links section ⤠</p>
     <p>⤟ Hope you enjoy my tools and stuff ⤠</p>
     <br>
 </h3>
@@ -60,7 +61,15 @@
         <img src="https://img.shields.io/badge/Website-Kourva.github.io-blue?style=social&logo=Aiqfome">
     </a>
     <a href="https://github.com/SlavPH">
-        <img src="https://img.shields.io/badge/Github-Old%20account-red?style=social&logo=github">
+        <img src="https://img.shields.io/badge/Github-Old%account-red?style=social&logo=github">
+    </a>
+    <br>
+    <p> ⤟ Music and Art ⤠ </p>
+    <a href="https://t.me/GNIChannel">
+        <img src="https://img.shields.io/badge/GNIChaneel-Old-black?style=social&logo=AppleMusic&logoColor=black">
+    </a>
+    <a href="https://t.me/ChefVomit">
+        <img src="https://img.shields.io/badge/ChefVomit-New-black?style=social&logo=AppleMusic&logoColor=violet">
     </a>
     <br>
     <p> ⤟ Shoutout to my bros ⤠ </p>
