@@ -69,10 +69,7 @@
     <br>
     <p> ⤟ Music and Art ⤠ </p>
     <a href="https://t.me/GNIChannel">
-        <img src="https://img.shields.io/badge/GNIChaneel-Old-black?style=social&logo=AppleMusic&logoColor=black">
-    </a>
-    <a href="https://t.me/ChefVomit">
-        <img src="https://img.shields.io/badge/ChefVomit-New-black?style=social&logo=AppleMusic&logoColor=violet">
+        <img src="https://img.shields.io/badge/GNIChannel-%20-black?style=social&logo=AppleMusic&logoColor=black">
     </a>
     <br><br>
     <p> ⤟ Shoutout to my bros ⤠ </p>
