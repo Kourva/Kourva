@@ -24,7 +24,7 @@
 <!-- Extra pins -->
 <h3 align="center">
     <br>
-    <p> ⤟ Also See ⤠ </p>
+    <p> ⤟ Top Repositories ⤠ </p>
     <a href="https://github.com/Kourva/PyLomba">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=PyLomba&theme=transparent&show_owner=true" />
     </a>
