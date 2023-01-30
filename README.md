@@ -39,7 +39,7 @@
     <br>
     <p>⤟ Github Stats and Most Used Languages ⤠</p>
     <p align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=00ff00" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=44ffff" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
     </p>
 </h3>
 
