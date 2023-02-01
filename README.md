@@ -18,7 +18,7 @@
 
 <!-- Streak stats -->
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=hacker&border_radius=5.0&background=DD272700&ring=00FF00&fire=545454&currStreakNum=FFFFFF&sideNums=8F8F8F&sideLabels=00FF00&dates=FFFFFF&border=FFFFFF" />
+<img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=hacker&border_radius=5.0&background=DD272700&ring=00FF00&fire=545454&currStreakNum=888888&sideNums=8F8F8F&sideLabels=00FF00&dates=888888&border=aaaaaaaa" />
 </p>
 
 <!-- Extra pins -->
