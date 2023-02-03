@@ -10,12 +10,12 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=matrix&no-bg=true&no-frame=false&column=6&row=1&margin-w=10" />
     <br><br><br>
     <p>⤟ Привет. я курва ⤠</p>
-    <p>⤟ I'm a Python Developer, Linux user, Making tools with Python to automate some stuff ⤠</p>
-    <p>⤟ So i live in the Iran. probably you know what is going on here :( ⤠</p>
-    <p>⤟ It's hard to survive here, with all limits, We can't access the outside without any Proxy or VPN. ⤠</p>
-    <p>⤟ it's hard to me to improve myself and making stuff but i will do my best to survive :D ⤠</p>
-    <p>⤟ I also do music and art. You can see my works below in the links section ⤠</p>
-    <p>⤟ Hope you enjoy my tools and stuff ⤠</p>
+    <p> I'm a Python Developer, Linux user, Making tools with Python to automate some stuff. </p>
+    <p> So i live in the Iran. probably you know what is going on here :( </p>
+    <p> It's hard to survive here, with all limits, We can't access the outside without any Proxy or VPN. </p>
+    <p> it's hard to me to improve myself and making stuff but i will do my best to survive :D </p>
+    <p> I also do music and art. You can see my works below in the links section. </p>
+    <p> Hope you enjoy my tools and stuff :)</p>
     <br>
 </h3>
 
