@@ -11,7 +11,7 @@
     <br><br><br>
     <p>⤟ Привет. я курва ⤠</p>
     <p> I'm a Python Developer, Linux user, Making tools with Python to automate some stuff. </p>
-    <p> Currently learning about networking</p>
+    <p> Currently learning about networking.</p>
     <p> I also do music and art. You can see my works below in the links section. </p>
     <p> Hope you enjoy my tools and stuff :)</p>
     <br>
