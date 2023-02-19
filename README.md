@@ -26,11 +26,11 @@
 <h3 align="center">
     <br>
     <p> ⤟ Top Repositories ⤠ </p>
-    <a href="https://github.com/Kourva/PyLomba">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=PyLomba&theme=transparent&show_owner=true" />
+    <a href="https://github.com/Kourva/V2rayDoprax">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=true" />
     </a>
-    <a href="https://github.com/Kourva/CryptoKo">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=CryptoKo&theme=transparent&show_owner=true" />
+    <a href="https://github.com/Kourva/V2Paste">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true" />
     </a>
     
 
