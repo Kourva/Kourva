@@ -3,18 +3,24 @@
     <a href="https://Kourva.github.io"> 
         <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=00ff00&width=135&lines=%3C%2F++Kourva++%2F%3E" />
     </a>
+
 </h1>
 
 <!-- Trophies -->
 <h3 align="center">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=matrix&no-bg=true&no-frame=false&column=6&row=1&margin-w=10" />
     <br><br><br>
-    <p>⤟ Привет. я курва ⤠</p>
+    <p>Привет. я курва </p>
+    <a href="https://tryhackme.com/p/Kourva">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Kourva.png" alt="TryHackMe">
+    </a>
+    <br><br><br><br>
     <p> I'm a Python Developer, Linux user, Making tools with Python to automate some stuff. </p>
     <p> Currently learning tcl language && networking stuff.</p>
     <p> I also do music and art. You can see my works below in the links section. </p>
     <p> Hope you enjoy my tools and stuff :)</p>
     <br>
+    
 </h3>
 
 <!-- Streak stats -->
