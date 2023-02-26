@@ -47,42 +47,7 @@
 
 <!-- Links -->
 <h3 align="center">
-    <br>
-    <p> ⤟ Account Information ⤠ <p>
-    <a href="https://github.com/Kourva?tab=followers">
-        <img src="https://img.shields.io/github/followers/Kourva?logoColor=black&style=social">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/stars/Kourva?logo=TrustPilot&logoColor=red&style=social">
-    </a>
-    <br>
-    <p> ⤟ Social Media ⤠ <p>
-    <a href="https://Kourva.t.me">
-        <img src="https://img.shields.io/badge/Telegram-%20-blue?logo=telegram&style=social&logoColor=blue">
-    </a>
-    <a href="https://Kourva.github.io">
-        <img src="https://img.shields.io/badge/Website-%20-blue?style=social&logo=Aiqfome">
-    </a>
-    <a href="https://github.com/SlavPH">
-        <img src="https://img.shields.io/badge/Github%20Old-%20-red?style=social&logo=github">
-    </a>
-     <a href="https://instagram.com/realkourva">
-        <img src="https://img.shields.io/badge/Instagram-%20-red?style=social&logo=instagram">
-    </a>
-    <a href="https://t.me/GNIChannel">
-        <img src="https://img.shields.io/badge/GNIChannel-%20-black?style=social&logo=AppleMusic&logoColor=black">
-    </a>
-    <br>
-    <p> ⤟ Shoutout to my bros ⤠ </p>
-    <a href="https://github.com/DoIKnowWhoYouI">
-        <img src="https://img.shields.io/badge/Who%20I%20Am-%20-green?style=social&logo=github">
-    </a>
-    <a href="https://github.com/V2Valerie">
-        <img src="https://img.shields.io/badge/V2%20Valerie-%20-green?style=social&logo=github">
-    </a>
-    <a href="https://github.com/evil-kiss">
-        <img src="https://img.shields.io/badge/Evil%20Kiss-%20-green?style=social&logo=github">
-    </a>
+   
     <br><br>
     <img align="center" src="https://user-images.githubusercontent.com/118578799/221409729-aa10d723-4008-478d-8a15-62bfae011c4d.svg">
     <br><br>
