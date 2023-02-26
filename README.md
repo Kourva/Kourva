@@ -84,8 +84,7 @@
         <img src="https://img.shields.io/badge/Evil%20Kiss-%20-green?style=social&logo=github">
     </a>
     <br><br>
-    <img align="center" src="https://user-images.githubusercontent.com/118578799/211487717-f3ec0df4-bc40-4abb-a0a2-1afe7d205d42.png">
+    <img align="center" src="https://user-images.githubusercontent.com/118578799/221409729-aa10d723-4008-478d-8a15-62bfae011c4d.svg">
     <br><br>
-    <p> ⤟ I Use Arch BTW ⤠ </p>
 </h3>
 
