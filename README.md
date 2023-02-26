@@ -86,6 +86,6 @@
     <br><br>
     <img align="center" src="https://user-images.githubusercontent.com/118578799/211487717-f3ec0df4-bc40-4abb-a0a2-1afe7d205d42.png">
     <br><br>
-    <p> ⤟ Artix Linux ⤠ </p>
+    <p> ⤟ I Use Arch BTW ⤠ </p>
 </h3>
 
