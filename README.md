@@ -50,8 +50,6 @@
     </p>
 </h3>
     
-<br>
-
 <h3 align="center">⤟ Try Hack Me Badges ⤠</h3>
     
 <p align="center">
@@ -62,4 +60,6 @@
     <img src="https://user-images.githubusercontent.com/118578799/222703334-f1af742c-e14d-4074-9466-328bfd680915.png" width=300 height=150 />
 </p>
 
+<br><br>
+    
 <img align="center" src="https://user-images.githubusercontent.com/118578799/221409729-aa10d723-4008-478d-8a15-62bfae011c4d.svg" /> 
