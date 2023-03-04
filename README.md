@@ -52,14 +52,14 @@
     
 <h3 align="center">⤟ Try Hack Me Badges ⤠</h3>
     
-<p align="center">
+<h1 align="center">
     <img src="https://user-images.githubusercontent.com/118578799/222703176-ffc31de7-e03f-479a-97bc-25e01e095a03.png" width=300 height=150 />
     <img src="https://user-images.githubusercontent.com/118578799/222705805-255bcf41-6ae2-4613-ba7b-3d7c378ea16a.png" width=300 height=150 />
     <img src="https://user-images.githubusercontent.com/118578799/222703196-51f5e6c6-7a25-4dbd-9d54-bf72573fd7d5.png" width=300 height=150 />
-    <img src="https://user-images.githubusercontent.com/118578799/222703163-ceecdd8d-5349-48f0-b886-79a34e134491.png" width=300 height=150 />    
+    <img src="https://user-images.githubusercontent.com/118578799/222703163-ceecdd8d-5349-48f0-b886-79a34e134491.png" width=300 height=150 />
     <img src="https://user-images.githubusercontent.com/118578799/222703334-f1af742c-e14d-4074-9466-328bfd680915.png" width=300 height=150 />
     <img src="https://user-images.githubusercontent.com/118578799/222854998-f378ec46-3022-43c3-855e-cea1dcf66664.png" width=300 height=150 />
-</p>
+</h1>
 
 <br><br>
     
