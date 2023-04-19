@@ -15,10 +15,8 @@
         <img src="https://tryhackme-badges.s3.amazonaws.com/Kourva.png" alt="THM">
     </a> -->
 <!--     <br><br> -->
-    <p> I'm a Python Developer, Linux user, Making tools with Python to automate some stuff. </p>
-    <p> Currently learning tcl language && networking stuff.</p>
-    <p> I also do music and art. You can see my works below in the links section. </p>
-    <p> Hope you enjoy my tools and stuff :)</p>
+    <p> I'm a Python Developer, Linux user, Making tools with Python to automate some stuff. </p> 
+    <p> Hope you enjoy my tools and stuff.</p>
     <br>
     
 </h3>
