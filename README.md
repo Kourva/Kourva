@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://Kourva.github.io"> 
-        <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=00ff00&width=135&lines=%3C%2F++Kourva++%2F%3E" />
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono+&pause=1000&color=F7F7F7&width=500&lines=FuNcTiOn+DeDsEc+%7BCiTyOs%7D%3A+PuT+-%3E+JoIn+DeDsEc+NoW" />
     </a>
 
 </p>
