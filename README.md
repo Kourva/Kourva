@@ -39,15 +39,17 @@
     <a href="https://github.com/Kourva/V2Paste">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true" />
     </a>
-    
+</h3>
 
-<!-- <h3 align="center">
+<h3 align="center">
     <br>
-    <p>⤟ 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝚊𝚗𝚍 𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 ⤠</p>
+    <p>⤟ 𝙿𝚢𝚝𝚑𝚘𝚗 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 || 𝙷𝚊𝚌𝚔𝚎𝚛𝚁𝚊𝚗𝚔 ⤠</p>
     <p align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=ffffff" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
+        <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
+            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=600 heigth=450/>
+        </a>
     </p>
-</h3> -->
+</h3>
 
 <br><br>
     
