@@ -1,22 +1,25 @@
 <!-- Intro text -->
-<h1 align="center">
+![dedsec3](https://user-images.githubusercontent.com/118578799/233756369-d71b06a0-2dbe-41fe-b351-22ba2ad12b77.png)
+
+![paper-cut-1](https://user-images.githubusercontent.com/118578799/233756342-830e93d3-1574-4cda-a2e8-988a0c02c280.png)
+
+<p align="center">
     <a href="https://Kourva.github.io"> 
         <img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=3000&pause=1000&color=00ff00&width=135&lines=%3C%2F++Kourva++%2F%3E" />
     </a>
 
-</h1>
+</p>
+
 
 <!-- Trophies -->
 <h3 align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=matrix&no-bg=true&no-frame=false&column=6&row=1&margin-w=10" />
-    <br><br><br>
-    <p>Привет. я курва </p>
-<!--     <a href="https://tryhackme.com/p/Kourva">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Kourva.png" alt="THM">
-    </a> -->
-<!--     <br><br> -->
-    <p> I'm a Python Developer, Linux user, Making tools with Python to automate some stuff. </p> 
-    <p> Hope you enjoy my tools and stuff.</p>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=oldie&no-bg=true&no-frame=false&column=6&row=1&margin-w=10" />
+    <br><br>
+    <img align="center" src="https://user-images.githubusercontent.com/118578799/233756931-3b1075da-8e89-4b01-bab5-72865eeeb731.png" width=350 height=175 />
+    <br><br>
+    <p> Привет. я курва </p>
+    <p> 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 || 𝙰𝚛𝚝𝚒𝚡 𝙻𝚒𝚗𝚞𝚡 𝚞𝚜𝚎𝚛 </p> 
+    <p> 𝙺𝚒𝚟𝚢 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 || 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙱𝚘𝚝𝚜 || 𝙻𝚒𝚗𝚞𝚡 𝚃𝚘𝚘𝚕𝚜 </p>
     <br>
     
 </h3>
@@ -29,7 +32,7 @@
 <!-- Extra pins -->
 <h3 align="center">
     <br>
-    <p> ⤟ Top Repositories ⤠ </p>
+    <p> ⤟ 𝚃𝚘𝚙 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 ⤠ </p>
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=true" />
     </a>
@@ -42,22 +45,11 @@
 <!-- Github Stats and Most used languages-->
 <h3 align="center">
     <br>
-    <p>⤟ Github Stats and Most Used Languages ⤠</p>
+    <p>⤟ 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝚊𝚗𝚍 𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 ⤠</p>
     <p align="center">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=44ffff" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
     </p>
 </h3>
-    
-<h3 align="center">⤟ Try Hack Me Badges ⤠</h3>
-    
-<h1 align="center">
-    <img src="https://user-images.githubusercontent.com/118578799/222703176-ffc31de7-e03f-479a-97bc-25e01e095a03.png" width=300 height=150 />
-    <img src="https://user-images.githubusercontent.com/118578799/222705805-255bcf41-6ae2-4613-ba7b-3d7c378ea16a.png" width=300 height=150 />
-    <img src="https://user-images.githubusercontent.com/118578799/222703196-51f5e6c6-7a25-4dbd-9d54-bf72573fd7d5.png" width=300 height=150 />
-    <img src="https://user-images.githubusercontent.com/118578799/222703163-ceecdd8d-5349-48f0-b886-79a34e134491.png" width=300 height=150 />
-    <img src="https://user-images.githubusercontent.com/118578799/222703334-f1af742c-e14d-4074-9466-328bfd680915.png" width=300 height=150 />
-    <img src="https://user-images.githubusercontent.com/118578799/222854998-f378ec46-3022-43c3-855e-cea1dcf66664.png" width=300 height=150 />
-</h1>
 
 <br><br>
     
