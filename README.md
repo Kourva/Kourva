@@ -26,7 +26,7 @@
 
 <!-- Streak stats -->
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=hacker&border_radius=5.0&background=DD272700&ring=00FF00&fire=545454&currStreakNum=888888&sideNums=8F8F8F&sideLabels=00FF00&dates=888888&border=aaaaaaaa" />
+<img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=black-ice&hide_border=true&border_radius=5&locale=ru&mode=weekly&card_width=550&background=00000000&ring=EBEBEB&currStreakLabel=C3C3C3&fire=FF0000" />
 </p>
 
 <!-- Extra pins -->
