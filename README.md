@@ -41,16 +41,14 @@
     </a>
     
 
-
-<!-- Github Stats and Most used languages-->
-<h3 align="center">
+<!-- <h3 align="center">
     <br>
     <p>⤟ 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝚊𝚗𝚍 𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 ⤠</p>
     <p align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=44ffff" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&ring_color=ffffff" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kourva&hide_border=true&theme=transparent&layout=compact&langs_count=10" />
     </p>
-</h3>
+</h3> -->
 
 <br><br>
     
-<img align="center" src="https://user-images.githubusercontent.com/118578799/221409729-aa10d723-4008-478d-8a15-62bfae011c4d.svg" /> 
+<!-- <img align="center" src="https://user-images.githubusercontent.com/118578799/221409729-aa10d723-4008-478d-8a15-62bfae011c4d.svg" /> -->
