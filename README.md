@@ -17,9 +17,8 @@
     <br><br>
     <img align="center" src="https://user-images.githubusercontent.com/118578799/233756931-3b1075da-8e89-4b01-bab5-72865eeeb731.png" width=350 height=175 />
     <br><br>
-    <p> Привет. я курва </p>
-    <p> 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 || 𝙰𝚛𝚝𝚒𝚡 𝙻𝚒𝚗𝚞𝚡 𝚞𝚜𝚎𝚛 </p> 
-    <p> 𝙺𝚒𝚟𝚢 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 || 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙱𝚘𝚝𝚜 || 𝙻𝚒𝚗𝚞𝚡 𝚃𝚘𝚘𝚕𝚜 </p>
+    <p> Python Developer || Artix Linux User </p> 
+    <p> Kivy Framework || Telegram Bots || Linux Tools </p>
     <br>
     
 </h3>
@@ -32,7 +31,7 @@
 <!-- Extra pins -->
 <h3 align="center">
     <br>
-    <p> ⤟ 𝚃𝚘𝚙 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 ⤠ </p>
+    <p> || Top Repositories || </p>
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=true" />
     </a>
@@ -43,7 +42,7 @@
 
 <h3 align="center">
     <br>
-    <p>⤟ 𝙿𝚢𝚝𝚑𝚘𝚗 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 || 𝙷𝚊𝚌𝚔𝚎𝚛𝚁𝚊𝚗𝚔 ⤠</p>
+    <p> || Python Certificate || </p>
     <p align="center">
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
             <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=600 heigth=450/>
