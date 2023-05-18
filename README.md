@@ -42,10 +42,13 @@
 
 <h3 align="center">
     <br>
-    <p> || Python Certificate || </p>
+    <p> || HackerRank Certificate || </p>
     <p align="center">
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
-            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=400 heigth=250/>
+            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=300 heigth=120/>
+        </a>
+        <a href="https://www.hackerrank.com/certificates/85073a706114">
+            <img src="https://github.com/Kourva/Kourva/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=298 heigth=120/>
         </a>
     </p>
 </h3>
