@@ -45,7 +45,7 @@
     <p> || Python Certificate || </p>
     <p align="center">
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
-            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=600 heigth=450/>
+            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=400 heigth=250/>
         </a>
     </p>
 </h3>
