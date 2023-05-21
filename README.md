@@ -18,7 +18,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/118578799/233756931-3b1075da-8e89-4b01-bab5-72865eeeb731.png" width=350 height=175 />
     <br><br>
     <p> Python Developer || Artix Linux User </p> 
-    <p> Kivy Framework || Telegram Bots || Linux Tools </p>
+    <p> Android Apps || Telegram Bots || Linux Tools </p>
     <br>
     
 </h3>
