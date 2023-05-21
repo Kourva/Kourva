@@ -28,6 +28,10 @@
 <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=black-ice&hide_border=true&border_radius=5&locale=ru&mode=weekly&card_width=550&background=00000000&ring=EBEBEB&currStreakLabel=C3C3C3&fire=FF0000" />
 </p>
 
+<!-- <h3 align="center">   
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&theme=transparent&locale=ru&hide_progress=true&hide_border=true&custom_title=язык" />
+</h3> -->
+
 <!-- Extra pins -->
 <h3 align="center">
     <br>
@@ -54,5 +58,3 @@
 </h3>
 
 <br><br>
-    
-<!-- <img align="center" src="https://user-images.githubusercontent.com/118578799/221409729-aa10d723-4008-478d-8a15-62bfae011c4d.svg" /> -->
