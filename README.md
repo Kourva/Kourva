@@ -13,7 +13,7 @@
 
 <!-- Trophies -->
 <h3 align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=oldie&no-bg=true&no-frame=false&column=6&row=1&margin-w=10&border_color=8b2e4d" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&border_color=8b2e4d&theme=radical" />
     <br><br>
     <img align="center" src="https://user-images.githubusercontent.com/118578799/233756931-3b1075da-8e89-4b01-bab5-72865eeeb731.png" width=350 height=175 />
     <br><br>
