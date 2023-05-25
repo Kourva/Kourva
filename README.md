@@ -13,7 +13,7 @@
 
 <!-- Trophies -->
 <h3 align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&border_color=8b2e4d&theme=radical" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&border_color=fe428e&theme=radical" />
     <br><br>
     <img align="center" src="https://user-images.githubusercontent.com/118578799/233756931-3b1075da-8e89-4b01-bab5-72865eeeb731.png" width=350 height=175 />
     <br><br>
@@ -24,7 +24,7 @@
 
 <!-- Streak stats -->
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=black-ice&hide_border=true&border_radius=5&locale=ru&mode=weekly&card_width=550&background=00000000&ring=8b2e4d&currStreakLabel=C3C3C3&fire=ffffff&stroke=8b2e4d&sideLabels=8b2e4d" />
+<img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=black-ice&hide_border=true&border_radius=5&locale=ru&mode=weekly&card_width=550&background=00000000&ring=fe428e&currStreakLabel=C3C3C3&fire=ffffff&stroke=fe428e&sideLabels=fe428e" />
 </p>
 
 <!-- <h3 align="center">   
@@ -36,12 +36,12 @@
     <br>
     <p> || закрепленные репозитории || </p>
     <a href="https://github.com/Kourva/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=true&border_color=8b2e4d&title_color=8b2e4d&text_color=C3C3C3" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=true&border_color=fe428e&title_color=fe428e&text_color=C3C3C3" />
     </a>
     <a href="https://github.com/Kourva/V2Paste">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true&border_color=8b2e4d&title_color=8b2e4d&text_color=C3C3C3" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true&border_color=fe428e&title_color=fe428e&text_color=C3C3C3" />
     </a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=default&card_width=860&hide_border=true&theme=transparent&locale=ru&title_color=8b2e4d&text_color=8b2e4d" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=default&card_width=860&hide_border=true&theme=transparent&locale=ru&title_color=fe428e&text_color=fe428e" />
 </h3>
 
 <h3 align="center">
