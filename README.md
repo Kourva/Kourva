@@ -34,19 +34,19 @@
 <!-- Extra pins -->
 <h3 align="center">
     <br>
-    <p> || Top Repositories || </p>
+    <p> || закрепленные репозитории || </p>
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=true" />
     </a>
     <a href="https://github.com/Kourva/V2Paste">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true" />
     </a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=default&card_width=860&hide_border=true&theme=transparent" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=default&card_width=860&hide_border=true&theme=transparent&locale=ru" />
 </h3>
 
 <h3 align="center">
     <br>
-    <p> || HackerRank Certificate || </p>
+    <p> || Сертификат ХакерРанка || </p>
     <p align="center">
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
             <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=300 heigth=120/>
