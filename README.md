@@ -20,7 +20,6 @@
     <p> Python Developer || Artix Linux User </p> 
     <p> Android Apps || Telegram Bots || Linux Tools </p>
     <br>
-    
 </h3>
 
 <!-- Streak stats -->
@@ -42,6 +41,7 @@
     <a href="https://github.com/Kourva/V2Paste">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true" />
     </a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=default&card_width=860&hide_border=true&theme=transparent" />
 </h3>
 
 <h3 align="center">
