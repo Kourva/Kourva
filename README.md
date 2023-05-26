@@ -1,5 +1,6 @@
 <!-- Intro text -->
-![dedsec3](https://user-images.githubusercontent.com/118578799/233756369-d71b06a0-2dbe-41fe-b351-22ba2ad12b77.png)
+<!-- ![dedsec3](https://user-images.githubusercontent.com/118578799/233756369-d71b06a0-2dbe-41fe-b351-22ba2ad12b77.png) -->
+![imageedit_2_3161009651](https://github.com/Kourva/Kourva/assets/118578799/49a41ef1-16de-4a80-9e94-ae8398f71a0c)
 
 ![paper-cut-1](https://user-images.githubusercontent.com/118578799/233756342-830e93d3-1574-4cda-a2e8-988a0c02c280.png)
 
