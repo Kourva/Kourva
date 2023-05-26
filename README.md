@@ -42,7 +42,7 @@
     <a href="https://github.com/Kourva/V2Paste">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=true&border_color=fe428e&title_color=fe428e&text_color=C3C3C3" />
     </a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=8&layout=compact&hide_border=true&theme=transparent&locale=ru&title_color=fe428e&text_color=fe428e&card_width=380" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=8&layout=compact&hide_border=true&theme=transparent&locale=ru&title_color=fe428e&text_color=fe428e&card_width=350" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&bg-color=00000000&hide_border=true&title_color=fe428e&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=github" />
 </h3>
 
