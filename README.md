@@ -44,6 +44,7 @@
     </a>
 </h3>
 
+<br>
 <h3 align="center">
     <br>
     <p> || Статистика аккаунта || </p>
@@ -51,6 +52,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=8&layout=compact&hide_border=true&theme=transparent&locale=ru&title_color=fe428e&text_color=fe428e&card_width=350" />
 </h3>
 
+<br>
 <h3 align="center">
     <br>
     <p> || Сертификат ХакерРанка || </p>
