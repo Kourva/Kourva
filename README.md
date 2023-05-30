@@ -1,4 +1,4 @@
-![Banner1](https://github.com/Kourva/Kourva/assets/118578799/d6d6620c-bc9a-40ae-9770-6d09b55d528c)
+![Banner1](https://github.com/Kourva/Kourva/assets/118578799/b9a53968-5063-4b4b-91ae-174827134174)
 ![Banner2](https://github.com/Kourva/Kourva/assets/118578799/8e2fd200-584d-4332-8263-a3429f3349f9)
 
 <!-- Trophies || About -->
