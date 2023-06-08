@@ -42,7 +42,7 @@
 <!-- Extra pins -->
 <h3 align="center">
     <br>
-    <p> ᴛᴏᴩ ʀᴇᴩᴏꜱ || ᴛᴏᴩ ᴛᴏᴏʟꜱ </p>
+    <p> ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ </p>
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=chartreuse-dark&show_owner=false&border_color=00aa00&title_color=00aa00&text_color=C3C3C3&border_radius=20" />
     </a>
