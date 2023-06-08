@@ -1,6 +1,6 @@
-![Banner1](https://github.com/Kourva/Kourva/assets/118578799/b9a53968-5063-4b4b-91ae-174827134174)
+<!-- ![Banner1](https://github.com/Kourva/Kourva/assets/118578799/b9a53968-5063-4b4b-91ae-174827134174)
 ![Banner2](https://github.com/Kourva/Kourva/assets/118578799/8e2fd200-584d-4332-8263-a3429f3349f9)
-
+ -->
 <!-- Trophies || About -->
 <h3 align="center">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&border_color=00aa00&theme=matrix%" />
@@ -31,13 +31,13 @@
 <br>
 
 <!-- Streak stats -->
-<h3 align="center">
+<!-- <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
     <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=black-ice&hide_border=false&border_radius=20&locale=ru&mode=weekly&card_width=550&background=000000&ring=00aa00&currStreakLabel=C3C3C3&fire=ffffff&stroke=00aa00&sideLabels=00aa00&border=00aa00" />
     <p>
 </h3>
 
-<br>
+<br> -->
 
 <!-- Extra pins -->
 <h3 align="center">
@@ -56,12 +56,16 @@
     <a href="https://github.com/Kourva/pacluma">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=pacluma&theme=chartreuse-dark&show_owner=false&border_color=00aa00&title_color=00aa00&text_color=C3C3C3&border_radius=20" />
     </a>
+    <p></p>
+    <a href="https://github.com/Kourva/netmirror">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=netmirror&theme=chartreuse-dark&show_owner=false&border_color=00aa00&title_color=00aa00&text_color=C3C3C3&border_radius=20" />
+    </a>
 </h3>
 
-<br>
-<h3 align="center">
+<!-- <br> -->
+<!-- <h3 align="center">
     <br>
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ || ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=chartreuse-dark&bg-color=00000000&hide_border=false&title_color=00aa00&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=github&border_color=00aa00&border_radius=20&line_height=28" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=compact&hide_border=false&theme=chartreuse-dark&locale=ru&title_color=00aa00&text_color=00aa00&card_width=350&border_color=00aa00&border_radius=20" />
-</h3>
+</h3> -->
