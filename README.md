@@ -22,7 +22,6 @@
         <a href="https://verify.mygreatlearning.com/verify/YJFFJNUM">
             <img src="https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2711791/original/Mike_Kourva20230608-69-1gt13gw.jpg" width=298 height=150/>
         </a>
-        
     </p>
     <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=009900&label=Follows&logo=github&logoColor=009900&style=flat-square">
     <img alt="Kourva's stars" src="https://img.shields.io/github/stars/Kourva?color=009900&label=Stars&logo=github&logoColor=009900&style=flat-square">
