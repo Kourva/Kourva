@@ -11,16 +11,16 @@
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
             <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=300 height=150/>
         </a>
-        <a href="https://www.hackerrank.com/certificates/85073a706114">
-            <img src="https://github.com/Kourva/Kourva/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=298 height=150/>
+        <a href="https://verify.mygreatlearning.com/verify/YJFFJNUM">
+            <img src="https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2711791/original/Mike_Kourva20230608-69-1gt13gw.jpg" width=298 height=150/>
         </a>
     </p>
     <p align="center">
         <a href="https://verify.mygreatlearning.com/verify/OWNKOILF">
             <img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/2712126/original/Mike_Kourva20230608-69-vs9xma.jpg" width=298 height=150/>
         </a>
-        <a href="https://verify.mygreatlearning.com/verify/YJFFJNUM">
-            <img src="https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/2711791/original/Mike_Kourva20230608-69-1gt13gw.jpg" width=298 height=150/>
+        <a href="https://www.hackerrank.com/certificates/85073a706114">
+            <img src="https://github.com/Kourva/Kourva/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=298 height=150/>
         </a>
     </p>
     <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=009900&label=Follows&logo=github&logoColor=009900&style=flat-square">
