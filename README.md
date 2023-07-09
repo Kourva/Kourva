@@ -43,6 +43,10 @@
 <h3 align="center">
     <br>
     <p> ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ </p>
+    <a href="https://github.com/Kourva/AwesomeChatGPTBot">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=00aa00&text_color=C3C3C3&border_radius=20" />
+    </a>
+    <br><br>
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=00aa00&text_color=C3C3C3&border_radius=20" />
     </a>
