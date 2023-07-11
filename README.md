@@ -21,8 +21,8 @@
             <img src="https://github.com/Kourva/Kourva/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=169 height=100 />
         </a>
     </p>
-    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=009900&label=Follows&logo=github&logoColor=009900&style=flat-square">
-    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/Kourva?color=009900&label=Stars&logo=github&logoColor=009900&style=flat-square">
+    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=008080&label=Follows&logo=github&logoColor=ffffff&style=flat-square">
+    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/Kourva?color=008080&label=Stars&logo=github&logoColor=ffffff&style=flat-square">
     <br>
 </h3>
 
@@ -31,7 +31,7 @@
 <!-- Streak stats -->
 <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
-    <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=ru&mode=weekly&card_width=550&background=00000000&ring=00aa00&currStreakLabel=C3C3C3&fire=ffffff&stroke=00aa00&sideLabels=00aa00&border=00aa00" />
+    <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=ru&mode=weekly&card_width=550&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=008080&stroke=008080&sideLabels=ffffff" />
     <p>
 </h3>
 
@@ -42,19 +42,19 @@
     <br>
     <p> ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ </p>
     <a href="https://github.com/Kourva/AwesomeChatGPTBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=00aa00&text_color=C3C3C3&border_radius=10" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=008080&text_color=C3C3C3&border_radius=10" />
     </a>
  &nbsp;
     <a href="https://github.com/Kourva/TempMailBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=TempMailBot&theme=transparent&show_owner=false&border_color=555555&title_color=00aa00&text_color=C3C3C3&border_radius=10" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=TempMailBot&theme=transparent&show_owner=false&border_color=555555&title_color=008080&text_color=C3C3C3&border_radius=10" />
     </a>
     <p></p>
     <a href="https://github.com/Kourva/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=00aa00&text_color=C3C3C3&border_radius=10" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=008080&text_color=C3C3C3&border_radius=10" />
     </a>
  &nbsp;
     <a href="https://github.com/Kourva/V2Paste">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=false&border_color=555555&title_color=00aa00&text_color=C3C3C3&border_radius=10" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=false&border_color=555555&title_color=008080&text_color=C3C3C3&border_radius=10" />
     </a>
 </h3>
 
@@ -62,6 +62,6 @@
 <h3 align="center">
     <br>
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ || ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=00aa00&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=github&border_color=00000000&border_radius=10&line_height=28" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=compact&hide_border=false&theme=transparent&locale=ru&title_color=00aa00&text_color=00aa00&card_width=350&border_color=00000000&border_radius=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=008080&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=github&border_color=00000000&border_radius=10&line_height=28" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=10&layout=compact&hide_border=false&theme=transparent&locale=ru&title_color=008080&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10" />
 </h3> 
