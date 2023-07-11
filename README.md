@@ -3,7 +3,7 @@
  -->
 <!-- Trophies || About -->
 <h3 align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=false&column=6&row=1&margin-w=10&theme=radical" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=algolia" />
     <br><br><br>
     <p> Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ || ᴀʀᴛɪx ʟɪɴᴜx ᴜꜱᴇʀ </p> 
     <p> Aɴᴅʀᴏɪᴅ Aᴩᴩꜱ || Tᴇʟᴇɢʀᴀᴍ Bᴏᴛꜱ || Lɪɴᴜx Tᴏᴏʟꜱ </p>
@@ -59,9 +59,9 @@
 </h3>
 
 <br>
-<h3 align="center">
+<!-- <h3 align="center">
     <br>
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ || ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=008080&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=28&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=ru&title_color=008080&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10" />
-</h3> 
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=donut&hide_border=false&theme=transparent&locale=ru&title_color=008080&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=25" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=008080&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=40&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
+</h3>  -->
