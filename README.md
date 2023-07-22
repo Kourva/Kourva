@@ -31,7 +31,7 @@
 <!-- Streak stats -->
 <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
-    <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=ru&mode=weekly&card_width=550&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=008080&stroke=008080&sideLabels=ffffff" />
+    <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=ru&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=008080&stroke=008080&sideLabels=ffffff" />
     <p>
 </h3>
 
