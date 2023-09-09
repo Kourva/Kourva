@@ -70,6 +70,6 @@
 <h3 align="center">
     <br>
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ || ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=46&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=donut-vertical&hide_border=false&theme=transparent&locale=ru&title_color=f92672&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=25" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=ru&title_color=f92672&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
 </h3> 
