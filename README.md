@@ -48,8 +48,8 @@
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=TempMailBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
     </a>
     <p></p>
-    <a href="https://github.com/Kourva/ReelsBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=ReelsBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
+    <a href="https://github.com/Kourva/KivyOTPLogin">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=KivyOTPLogin&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
     </a>&nbsp;
     <a href="https://github.com/Kourva/MTProtoBot">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=MTProtoBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
