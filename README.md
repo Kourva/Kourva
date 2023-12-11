@@ -68,7 +68,7 @@
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>&nbsp;
     <a href="https://github.com/Kourva/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,73FA79,73FDFF,7A81FF" />
     </a>
     <p></p>
 </h3>
