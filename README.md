@@ -30,7 +30,7 @@
 
 <p align="center">
  <kbd>
-    <kbd>Skills && Programming Languages</kbd>
+    <kbd>Skills && Programming Languages && Technologies</kbd>
     <br>
     <br>
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
