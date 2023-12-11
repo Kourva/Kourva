@@ -60,31 +60,15 @@
     <p>
 </h3>
 
-<br>
-
 <!-- Extra pins -->
 <h3 align="center">
     <br>
     <p> ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ </p>
     <a href="https://github.com/Kourva/AwesomeChatGPTBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>&nbsp;
-    <a href="https://github.com/Kourva/TempMailBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=TempMailBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
-    </a>
-    <p></p>
-    <a href="https://github.com/Kourva/CtrlBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=CtrlBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
-    </a>&nbsp;
-    <a href="https://github.com/Kourva/MTProtoBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=MTProtoBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
-    </a>
-    <p></p>
     <a href="https://github.com/Kourva/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
-    </a>&nbsp;
-    <a href="https://github.com/Kourva/V2Paste">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2Paste&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=C3C3C3&border_radius=10" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>
     <p></p>
 </h3>
