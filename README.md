@@ -28,6 +28,28 @@
 
 <br>
 
+<p align="center">
+ <kbd>
+    <kbd>Skills && Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> 
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img width="60px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />
+    <img width="60px" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" />
+ </kbd>
+</p>
+
+<br>
+
 <!-- Streak stats -->
 <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
