@@ -4,8 +4,8 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=monokai" />
     <br><br><br>
     <!-- About Me Section -->
-    <p> Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ </p> 
-    <p> Aɴᴅʀᴏɪᴅ Aᴩᴩꜱ || Tᴇʟᴇɢʀᴀᴍ Bᴏᴛꜱ || Lɪɴᴜx Tᴏᴏʟꜱ </p>
+    <p> ᨒ Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ ᨒ </p> 
+    <p>·:* Aɴᴅʀᴏɪᴅ Aᴩᴩꜱ ┆┆ Tᴇʟᴇɢʀᴀᴍ Bᴏᴛꜱ ┆┆ Lɪɴᴜx Tᴏᴏʟꜱ *:·</p>
     <!-- Certificates Section -->
     <p align="center">
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
@@ -22,7 +22,7 @@
         </a>
     </p>
     <!-- Github Account Details  -->
-    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square">
+    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⿻
     <img alt="Kourva's stars" src="https://img.shields.io/github/stars/Kourva?color=f92672&label=Stars&logo=github&logoColor=ffffff&style=flat-square">
     <br>
 </h3>
@@ -32,7 +32,7 @@
 <p align="center">
     <kbd>
         <!-- Title Section -->
-        <kbd>Skills && Programming Languages && Technologies</kbd>
+        <kbd>꒷꒦꒷꒦꒷꒦꒷ Skills && Programming Languages && Technologies ꒷꒦꒷꒦꒷꒦꒷</kbd>
         <br><br>        
         <!-- Logos Section -->
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -55,13 +55,13 @@
         <br>
     </kbd>
     <br><br>
-    <kbd>Currently learning Django...</kbd>
+    <kbd>˚ ༘ ೀ⋆｡˚ Currently learning Django, Lpic1...</kbd>
 </p>
 <br>
 
 <!-- Account's Streak Stats -->
 <h3 align="center">
-    <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ || ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
+    <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ ┆┆ ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
         <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=ru&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
     <p>
 </h3>
@@ -69,12 +69,15 @@
 <!-- Extra Repository Pins -->
 <h3 align="center">
     <br>
-    <p> ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ </p>
+    <p>𓆩ꨄ︎𓆪 ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ 𓆩ꨄ︎𓆪</p>
     <a href="https://github.com/Kourva/AwesomeChatGPTBot">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>&nbsp;
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,73FA79,73FDFF,7A81FF" />
+    </a><br><br>
+    <a href="https://github.com/Kourva/AnonProxies">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=EC6C6C,FFD479,73FA79,7A81FF" />
     </a>
 </h3>
 
@@ -83,7 +86,7 @@
 <!-- Account's Languages Stats -->
 <h3 align="center">
     <br>
-    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ || ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
+    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ┆┆ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=ru&title_color=f92672&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
 </h3> 
