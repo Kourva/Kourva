@@ -62,7 +62,7 @@
 <!-- Account's Streak Stats -->
 <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ ┆┆ ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
-        <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=ru&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
+        <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
     <p>
 </h3>
 
@@ -87,6 +87,6 @@
 <h3 align="center">
     <br>
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ┆┆ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=ru&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=ru&title_color=f92672&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=f92672&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
 </h3> 
