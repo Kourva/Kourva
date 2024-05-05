@@ -17,9 +17,9 @@
         <a href="https://verify.mygreatlearning.com/verify/OWNKOILF">
             <img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/2712126/original/Mike_Kourva20230608-69-vs9xma.jpg" width=169 height=100 />
         </a>
-        <a href="https://www.hackerrank.com/certificates/85073a706114">
+<!--         <a href="https://www.hackerrank.com/certificates/85073a706114">
             <img src="https://github.com/Kourva/Kourva/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=169 height=100 />
-        </a>
+        </a> -->
     </p>
     <!-- Github Account Details  -->
     <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⿻
