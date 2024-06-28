@@ -4,8 +4,8 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=KourvA&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=monokai" />
     <br><br><br>
     <!-- About Me Section -->
-    <p> ᨒ Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ ᨒ </p> 
-    <p>·:* Aɴᴅʀᴏɪᴅ Aᴩᴩꜱ ┆┆ Tᴇʟᴇɢʀᴀᴍ Bᴏᴛꜱ ┆┆ Lɪɴᴜx Tᴏᴏʟꜱ *:·</p>
+    <p> 〔 Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ 〕 </p> 
+    <p>❝ Aɴᴅʀᴏɪᴅ Aᴩᴩꜱ ❙❘ Tᴇʟᴇɢʀᴀᴍ Bᴏᴛꜱ ❘❙ Lɪɴᴜx Tᴏᴏʟꜱ ❞</p>
     <!-- Certificates Section -->
     <p align="center">
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
@@ -22,7 +22,7 @@
         </a> -->
     </p>
     <!-- Github Account Details  -->
-    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/KourvA?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⿻
+    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/KourvA?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⌗
     <img alt="Kourva's stars" src="https://img.shields.io/github/stars/KourvA?color=f92672&label=Stars&logo=github&logoColor=ffffff&style=flat-square">
     <br>
 </h3>
@@ -32,8 +32,9 @@
 <div align="center">
     <kbd>
         <!-- Title Section -->
-        <kbd>꒷꒦꒷꒦꒷꒦꒷ Programming Skills ꒷꒦꒷꒦꒷꒦꒷</kbd>
-        <br><br>        
+        <br>
+        <div><b>｛ Programming Skills }</b></div>
+        <br>        
         <!-- Logos Section -->
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -54,13 +55,13 @@
         <br>
     </kbd>
     <br><br>
-    <kbd>˚ ༘ ೀ⋆｡˚ Currently learning Flet...</kbd>
+    <div>❝ Currently learning Flet ❞</div>
 </div>
 <br>
 
 <!-- Account's Streak Stats -->
 <h3 align="center">
-    <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ ┆┆ ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
+    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ </p> 
         <img align="center" src="https://streak-stats.demolab.com?user=KourvA&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
     <p>
 </h3>
@@ -68,7 +69,7 @@
 <!-- Extra Repository Pins -->
 <h3 align="center">
     <br>
-    <p>𓆩ꨄ︎𓆪 ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ 𓆩ꨄ︎𓆪</p>
+    <p>⌈ ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ ⌋</p>
     <a href="https://github.com/KourvA/AwesomeChatGPTBot">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>&nbsp;
@@ -82,7 +83,7 @@
 <!-- Account's Languages Stats -->
 <h3 align="center">
     <br>
-    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ┆┆ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
+    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ᴀɴᴅ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=f92672&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
 </h3> 
