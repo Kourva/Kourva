@@ -1,7 +1,7 @@
 <!-- Github's Readme Section -->
 <h3 align="center">
     <!-- Trophy cards -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=monokai" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=KourvA&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=monokai" />
     <br><br><br>
     <!-- About Me Section -->
     <p> ᨒ Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ ᨒ </p> 
@@ -22,8 +22,8 @@
         </a> -->
     </p>
     <!-- Github Account Details  -->
-    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⿻
-    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/Kourva?color=f92672&label=Stars&logo=github&logoColor=ffffff&style=flat-square">
+    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/KourvA?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⿻
+    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/KourvA?color=f92672&label=Stars&logo=github&logoColor=ffffff&style=flat-square">
     <br>
 </h3>
 <br>
@@ -55,14 +55,14 @@
         <br>
     </kbd>
     <br><br>
-    <kbd>˚ ༘ ೀ⋆｡˚ Currently learning Django, Lpic1...</kbd>
+    <kbd>˚ ༘ ೀ⋆｡˚ Currently learning Flet...</kbd>
 </p>
 <br>
 
 <!-- Account's Streak Stats -->
 <h3 align="center">
     <p> ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ ┆┆ ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ </p> 
-        <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
+        <img align="center" src="https://streak-stats.demolab.com?user=KourvA&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
     <p>
 </h3>
 
@@ -74,7 +74,7 @@
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>&nbsp;
     <a href="https://github.com/Kourva/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,73FA79,73FDFF,7A81FF" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,73FA79,73FDFF,7A81FF" />
     </a><br><br>
 <!--     <a href="https://github.com/Kourva/AnonProxies"> -->
 <!--         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AnonProxies&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=EC6C6C,FFD479,73FA79,73FDFF" /> -->
