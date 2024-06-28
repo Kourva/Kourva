@@ -30,7 +30,7 @@
 
 <!-- Skills Table -->
 <div align="center">
-    <kbd>
+    <div>
         <!-- Title Section -->
         <br>
         <div><b>｛{ Programming Skills }}</b></div>
@@ -52,10 +52,10 @@
         <img width="35px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />
         <img width="35px" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" />
         <img width="35px" src="https://seeklogo.com/images/A/artix-linux-logo-E1F82C6DDD-seeklogo.com.png" />
-        <br><br><br>
+        <br>
         <div>❝ Currently learning Flet ❞</div>
         <br>
-    </kbd>
+    </div>
 </div>
 <br>
 
