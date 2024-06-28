@@ -1,7 +1,7 @@
 <!-- Github's Readme Section -->
 <h3 align="center">
     <!-- Trophy cards -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=KourvA&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=monokai" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=KourvA&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" />
     <br><br><br>
     <!-- About Me Section -->
     <p> 〔 Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ 〕 </p> 
@@ -22,8 +22,8 @@
         </a> -->
     </p>
     <!-- Github Account Details  -->
-    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/KourvA?color=f92672&label=Follows&logo=github&logoColor=ffffff&style=flat-square"> ⌗
-    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/KourvA?color=f92672&label=Stars&logo=github&logoColor=ffffff&style=flat-square">
+    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/KourvA?color=36ba01&label=Follows&logo=github&logoColor=000000&style=flat-square"> ⌗
+    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/KourvA?color=36ba01&label=Stars&logo=github&logoColor=000000&style=flat-square">
     <br>
 </h3>
 <br>
@@ -62,7 +62,7 @@
 <!-- Account's Streak Stats -->
 <h3 align="center">
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ </p> 
-        <img align="center" src="https://streak-stats.demolab.com?user=KourvA&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=ffffff&currStreakLabel=C3C3C3&fire=f92672&stroke=f92672&sideLabels=ffffff" />
+        <img align="center" src="https://streak-stats.demolab.com?user=KourvA&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=36ba01&currStreakLabel=ffffff&fire=ffffff&stroke=36ba01&sideLabels=ffffff&theme=hacker" />
     <p>
 </h3>
 
