@@ -29,26 +29,25 @@
 <br>
 
 <!-- Skills Table -->
-<p align="center">
+<div align="center">
     <kbd>
         <!-- Title Section -->
-        <kbd>꒷꒦꒷꒦꒷꒦꒷ Skills && Programming Languages && Technologies ꒷꒦꒷꒦꒷꒦꒷</kbd>
+        <kbd>꒷꒦꒷꒦꒷꒦꒷ Programming Skills ꒷꒦꒷꒦꒷꒦꒷</kbd>
         <br><br>        
         <!-- Logos Section -->
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+        <img width="35px" src="https://static-00.iconduck.com/assets.00/file-type-kivy-icon-512x512-ipf6xe5b.png" />
+        <img width="35px" src="https://flet.dev/img/logo.svg">
         <img width="35px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" />
         <img width="35px" src="https://icon.icepanel.io/Technology/svg/Nano.svg" />
-        <img width="35px" src="https://static-00.iconduck.com/assets.00/file-type-kivy-icon-512x512-ipf6xe5b.png" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
         <img width="35px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />
         <img width="35px" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" />
         <img width="35px" src="https://seeklogo.com/images/A/artix-linux-logo-E1F82C6DDD-seeklogo.com.png" />
@@ -56,7 +55,7 @@
     </kbd>
     <br><br>
     <kbd>˚ ༘ ೀ⋆｡˚ Currently learning Flet...</kbd>
-</p>
+</div>
 <br>
 
 <!-- Account's Streak Stats -->
@@ -70,15 +69,12 @@
 <h3 align="center">
     <br>
     <p>𓆩ꨄ︎𓆪 ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ 𓆩ꨄ︎𓆪</p>
-    <a href="https://github.com/Kourva/AwesomeChatGPTBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
+    <a href="https://github.com/KourvA/AwesomeChatGPTBot">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" />
     </a>&nbsp;
-    <a href="https://github.com/Kourva/V2rayDoprax">
+    <a href="https://github.com/KourvA/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=0,73FA79,73FDFF,7A81FF" />
-    </a><br><br>
-<!--     <a href="https://github.com/Kourva/AnonProxies"> -->
-<!--         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AnonProxies&theme=transparent&show_owner=false&border_color=555555&title_color=f92672&text_color=020202&border_radius=10&bg_color=EC6C6C,FFD479,73FA79,73FDFF" /> -->
-<!--     </a> -->
+    </a>
 </h3>
 
 <br>
