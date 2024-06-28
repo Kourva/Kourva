@@ -71,10 +71,10 @@
     <br>
     <p>⌈ ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ ⌋</p>
     <a href="https://github.com/KourvA/AwesomeChatGPTBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=555555&title_color=ffffff&text_color=020202&border_radius=10&bg_color=0,3bcf05,36ba01,00ff00" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,3bcf05,36ba01,00ff00" />
     </a>&nbsp;
     <a href="https://github.com/KourvA/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=555555&title_color=ffffff&text_color=020202&border_radius=10&bg_color=0,00ff00,36ba01,3bcf05" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=KourvA&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,00ff00,36ba01,3bcf05" />
     </a>
 </h3>
 
