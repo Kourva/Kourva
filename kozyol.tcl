@@ -2,7 +2,7 @@
 
 
 # sets the variables
-set fname "Kourva"
+set fname "kozyol"
 set linux "Artix"
 set plang "python"
 
