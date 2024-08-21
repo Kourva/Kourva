@@ -1,7 +1,7 @@
 <!-- Github's Readme Section -->
 <h3 align="center">
     <!-- Trophy cards -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=kozyol&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kourva&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" />
     <br><br><br>
     <!-- About Me Section -->
     <p> 〔 Pʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏPᴇʀ ᴀɴᴅ ʟɪɴᴜx ᴜꜱᴇʀ 〕 </p> 
@@ -18,12 +18,12 @@
             <img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/2712126/original/Mike_Kourva20230608-69-vs9xma.jpg" width=169 height=100 />
         </a>
 <!--         <a href="https://www.hackerrank.com/certificates/85073a706114">
-            <img src="https://github.com/kozyol/kozyol/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=169 height=100 />
+            <img src="https://github.com/Kourva/Kourva/assets/118578799/a55963a6-aadd-4f9c-aabe-97a850ea6700" width=169 height=100 />
         </a> -->
     </p>
     <!-- Github Account Details  -->
-    <img alt="kozyol's followers" src="https://img.shields.io/github/followers/kozyol?color=36ba01&label=Follows&logo=github&logoColor=000000&style=flat-square"> ⌗
-    <img alt="kozyol's stars" src="https://img.shields.io/github/stars/kozyol?color=36ba01&label=Stars&logo=github&logoColor=000000&style=flat-square">
+    <img alt="Kourva's followers" src="https://img.shields.io/github/followers/Kourva?color=36ba01&label=Follows&logo=github&logoColor=000000&style=flat-square"> ⌗
+    <img alt="Kourva's stars" src="https://img.shields.io/github/stars/Kourva?color=36ba01&label=Stars&logo=github&logoColor=000000&style=flat-square">
     <br>
 </h3>
 <br>
@@ -63,7 +63,7 @@
 <!-- Account's Streak Stats -->
 <h3 align="center">
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ </p> 
-        <img align="center" src="https://streak-stats.demolab.com?user=kozyol&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=36ba01&currStreakLabel=ffffff&fire=ffffff&stroke=36ba01&sideLabels=ffffff&theme=hacker" />
+        <img align="center" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=36ba01&currStreakLabel=ffffff&fire=ffffff&stroke=36ba01&sideLabels=ffffff&theme=hacker" />
     <p>
 </h3>
 
@@ -71,14 +71,14 @@
 <h3 align="center">
     <br>
     <p>⌈ ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ ⌋</p>
-    <a href="https://github.com/kozyol/AwesomeChatGPTBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kozyol&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,3bcf05,36ba01,00ff00" />
+    <a href="https://github.com/Kourva/AwesomeChatGPTBot">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,3bcf05,36ba01,00ff00" />
     </a>&nbsp;
-    <a href="https://github.com/kozyol/V2rayDoprax">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kozyol&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,00ff00,36ba01,3bcf05" />
+    <a href="https://github.com/Kourva/V2rayDoprax">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,00ff00,36ba01,3bcf05" />
     </a><br><br>
-    <a href="https://github.com/kozyol/FletGrm">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kozyol&repo=FletGrm&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=214263,4589ce,214263" />
+    <a href="https://github.com/Kourva/FletGrm">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=FletGrm&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=214263,4589ce,214263" />
     </a>
     
 </h3>
@@ -89,6 +89,6 @@
 <h3 align="center">
     <br>
     <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ᴀɴᴅ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kozyol&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=ffffff&text_color=3bcf05&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozyol&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=ffffff&text_color=3bcf05&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=ffffff&text_color=3bcf05&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=ffffff&text_color=3bcf05&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
 </h3> 
