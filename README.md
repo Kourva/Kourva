@@ -72,13 +72,16 @@
     <br>
     <p>⌈ ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ ⌋</p>
     <a href="https://github.com/Kourva/AwesomeChatGPTBot">
-        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,3bcf05,36ba01,00ff00" />
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,ff007f,ff557f,ff00ff" />
     </a>&nbsp;
     <a href="https://github.com/Kourva/V2rayDoprax">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=0,00ff00,36ba01,3bcf05" />
     </a><br><br>
     <a href="https://github.com/Kourva/FletGrm">
         <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=FletGrm&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=214263,4589ce,214263" />
+    </a>&nbsp;
+    <a href="https://github.com/Kourva/CornHub">
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kourva&repo=CornHub&theme=transparent&show_owner=false&border_color=000000&title_color=000000&text_color=020202&border_radius=10&bg_color=c2c200,ff5500,c2c200" />
     </a>
     
 </h3>
