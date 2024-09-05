@@ -42,10 +42,10 @@
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img width="50px" src="https://static-00.iconduck.com/assets.00/file-type-kivy-icon-512x512-ipf6xe5b.png" />
         <img width="70px" src="https://flet.dev/img/logo.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
         <img width="35px" src="https://icon.icepanel.io/Technology/svg/Nano.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
         <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -54,7 +54,7 @@
         <img width="35px" src="https://seeklogo.com/images/A/artix-linux-logo-E1F82C6DDD-seeklogo.com.png" />
         <img width="35px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" />
         <br>
-        <div>❝ Currently learning Flet ❞</div>
+        <div>❝ Currently learning Flet & Django ❞</div>
         <br>
     </div>
 </div>
