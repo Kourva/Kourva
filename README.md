@@ -31,32 +31,33 @@
 <!-- Skills Table -->
 <div align="center">
     <div>
-        <!-- Title Section -->
-        <br>
-        <div><b>｛{ Programming Skills }}</b></div>
-        <br>        
-        <!-- Logos Section -->
-        <img width="35px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img width="50px" src="https://static-00.iconduck.com/assets.00/file-type-kivy-icon-512x512-ipf6xe5b.png" />
-        <img width="70px" src="https://flet.dev/img/logo.svg">
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        <img width="35px" src="https://icon.icepanel.io/Technology/svg/Nano.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        <img width="35px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" />
-        <img width="35px" src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" />
-        <img width="35px" src="https://seeklogo.com/images/A/artix-linux-logo-E1F82C6DDD-seeklogo.com.png" />
-        <img width="35px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" />
-        <br>
-        <div>❝ Currently learning Flet & Django ❞</div>
-        <br>
-    </div>
+        <h4>Technologies</h4>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/bash.png" alt="sh" title="BashScript" /> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/python.png" alt="py" title="Python"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/html.png" alt="html" title="HTML"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/css.png" alt="css" title="CSS"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" alt="js" title="JavaScript"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/cpp.png" alt="cpp" title="C++"/>    
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/bootstrap.png" alt="css,js" title="Bootstrap" /> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/kivy.png" alt="py" title="Kivy"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" alt="py" title="Odoo"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" alt="py" title="Flet"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" alt="py" title="Django"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/jquery.png" alt="js" title="Jquery"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/nano.png" alt="x" title="Nano" /> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/vim.png" alt="x" title="Vim"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/sublime.png" alt="x" title="Sublime"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/vscode.png" alt="x" title="VsCode"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/tools/git.png" alt="x" title="Git"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/databases/postgresql.png" alt="x" title="PostgreSql"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/databases/sqlite.png" alt="x" title="Sqlite"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/android.png" alt="apk" title="Android" /> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/kalilinux.png" alt="x" title="KaliLinux"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/blackarch.png" alt="x" title="BlackArch"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/archlinux.png" alt="x" title="ArchLinux"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/artixlinux.png" alt="x" title="ArtixLinux"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/ubuntu.png" alt="x" title="Ubuntu"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/voidlinux.png" alt="x" title="VoidLinux"/>
 </div>
 <br>
 
