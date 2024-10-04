@@ -31,7 +31,7 @@
 <!-- Skills Table -->
 <div align="center">
     <div>
-        <h4>Technologies</h4>
+        <h3> ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ </h3> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/bash.png" alt="sh" title="BashScript" /> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/python.png" alt="py" title="Python"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/html.png" alt="html" title="HTML"/> 
