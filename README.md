@@ -34,6 +34,7 @@
         <h3> ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ </h3> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/bash.png" alt="sh" title="BashScript" /> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/python.png" alt="py" title="Python"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/php.png" alt="php" title="PHP"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/html.png" alt="html" title="HTML"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/css.png" alt="css" title="CSS"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" alt="js" title="JavaScript"/>
@@ -43,6 +44,7 @@
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" alt="py" title="Odoo"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" alt="py" title="Flet"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" alt="py" title="Django"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/laravel.png" alt="php" title="Laravel"/>
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/jquery.png" alt="js" title="Jquery"/>
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/nano.png" alt="x" title="Nano" /> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/vim.png" alt="x" title="Vim"/> 
