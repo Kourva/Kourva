@@ -43,6 +43,7 @@
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/kivy.png" alt="py" title="Kivy"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" alt="py" title="Odoo"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" alt="py" title="Flet"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/vue.png" alt="vue" title="Vue"/> 
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" alt="py" title="Django"/>
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/laravel.png" alt="php" title="Laravel"/>
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/jquery.png" alt="js" title="Jquery"/>
