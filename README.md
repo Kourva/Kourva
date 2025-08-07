@@ -62,7 +62,7 @@
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/ubuntu.png" alt="x" title="Ubuntu"/>
           <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/voidlinux.png" alt="x" title="VoidLinux"/>
 </div>
-    <p>Currently Mastering <b>Django</b>, <b>Odoo</b> and learning <b>Laravel</b>, <b>Tailwind</b></p>
+    <p>Currently Mastering <b>VueJs - NuxtJs - Laravel</b></p>
 <br>
 
 <!-- Account's Streak Stats -->
@@ -73,6 +73,7 @@
 </h3>
 
 <!-- Extra Repository Pins -->
+<!--
 <h3 align="center">
     <br>
     <p>⌈ ᴛᴏᴩ ʀᴇᴩᴏꜱɪᴛᴏʀɪᴇꜱ ⌋</p>
@@ -90,6 +91,7 @@
     </a>
     
 </h3>
+-->
 
 <br>
 
