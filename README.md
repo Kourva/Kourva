@@ -12,6 +12,8 @@
 - 🔒 **Cybersecurity-Oriented** → implementing secure, robust, and scalable solutions  
 - 🎯 **Vision** → creating a suite of professional-grade tools and services that are efficient, reliable, and solve real-world problems  
 
+<br>
+
 ### 🌐 Work & Availability Note
 Due to **limited internet connectivity** in my region and a focus on **full-time private repositories**, I may need extra time to respond, update, or build public projects. Updates may be slower than usual, but I remain committed to contributing to open-source.
 
