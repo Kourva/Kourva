@@ -32,7 +32,7 @@ Due to **limited internet connectivity** in my region and a focus on **full-time
 
 <p align="center">
   <!-- Stats + Languages side by side -->
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=2B65FF&text_color=F5F5F5&icon_color=2B65FF&rank_icon=percentile" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=2B65FF&text_color=F5F5F5&icon_color=2B65FF&rank_icon=percentile" />
   <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&layout=compact&langs_count=15&hide_border=true&theme=transparent&bg_color=00000000&title_color=2B65FF&text_color=F5F5F5&border_color=6B6B6B" />
 </p>
 
