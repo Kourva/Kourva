@@ -19,6 +19,33 @@ Due to **limited internet connectivity** in my region and a focus on **full-time
 
 ---
 
+### 🌟 Featured Projects
+<p align="center">
+
+  <!-- CornHub: Yellow to Orange (Pornhub-inspired) -->
+  <a href="https://github.com/Kourva/CornHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=CornHub&border_radius=5&bg_color=90,FFD600,FF9800&title_color=111111&text_color=111111&label_color=FF9800" />
+  </a>
+
+  <!-- FletGrm: Telegram-inspired (bright blue + light gray) -->
+  <a href="https://github.com/Kourva/FletGrm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=FletGrm&border_radius=5&bg_color=90,00BFFF,E0F7FA&title_color=000000&text_color=111111&label_color=00BFFF" />
+  </a>
+
+  <!-- AwesomeChatGPTBot: Purple gradient (techy, modern) -->
+  <a href="https://github.com/Kourva/AwesomeChatGPTBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&border_radius=5&bg_color=90,8e2de2,4a00e0&title_color=FFFFFF&text_color=E0E0E0&label_color=8e2de2" />
+  </a>
+
+  <!-- V2rayDoprax: Vibrant Orange gradient -->
+  <a href="https://github.com/Kourva/V2rayDoprax">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&border_radius=5&bg_color=90,FF9800,FF5722&title_color=FFFFFF&text_color=E0E0E0&label_color=FF5722" />
+  </a>
+
+</p>
+
+---
+
 ### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=algolia&no-frame=true&margin-w=8&no-bg=true&title=2B65FF&text_color=F5F5F5&border_color=6B6B6B" />
