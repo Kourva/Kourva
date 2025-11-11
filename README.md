@@ -1,4 +1,7 @@
-<h1 align="center">⌬ Mike Kourva ⌬</h1>
+<img width="1700" height="460" alt="banner" src="https://github.com/user-attachments/assets/6e45cfbf-b987-4174-9d24-42cda58c0b87" />
+
+
+<h1 align="center">⌬ Kourva ⌬</h1>
 <h3 align="center">Fullstack Developer • Laravel • Vue/Nuxt (TS) • Python • Odoo</h3>
 
 ---
