@@ -1,8 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fabd4204-2a46-4e8d-b2eb-a756153a6b6f" />
 
-
-<h1 align="center">⌬ Kourva ⌬</h1>
-<h3 align="center">Fullstack Developer • Laravel • Vue/Nuxt (TS) • Python • Odoo</h3>
+<h3 align="center">Laravel • Vue/Nuxt (TS) • Python • Odoo</h3>
 
 ---
 
