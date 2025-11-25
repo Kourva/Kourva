@@ -87,29 +87,25 @@ Due to **limited internet connectivity** in my region and a focus on **full-time
 ---
 
 ### ⚡ Tech Stack
-<p align="center">
+<p align="left">
   <!-- Languages & Frameworks -->
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/python.png" title="Python" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" title="Odoo" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/php.png" title="PHP" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" title="JavaScript" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/bash.png" title="Bash" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/laravel.png" title="Laravel" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/vue.png" title="Vue" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" title="Django" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" title="Flet" />
-
-  <!-- Tools -->
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/tools/git.png" title="Git" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/vscode.png" title="VSCode" />
-  <img width="42" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/archlinux.png" title="ArchLinux" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/python.png" title="Python" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/vue.png" title="VueJs" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/nuxt.png" title="NuxtTs" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/laravel.png" title="Laravel" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" title="Odoo" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/php.png" title="PHP" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" title="JavaScript" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/typescript.png" title="typescript" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" title="Django" />
+  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" title="Flet" />
 </p>
 
 ---
 
 ### 🌐 Connect
-<p align="center">
-  <a href="https://github.com/Kourva"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/github.png" width="42"/></a>
-  <a href="https://t.me/kourva"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/telegram.png" width="42"/></a>
-  <a href="https://instagram.com/d34uth"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/instagram.png" width="42"/></a>
+<p align="left">
+  <a href="https://github.com/Kourva"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/github.png" width="70"/></a>
+  <a href="https://t.me/kourva"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/telegram.png" width="70"/></a>
+  <a href="https://instagram.com/d34uth"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/instagram.png" width="70"/></a>
 </p>
