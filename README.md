@@ -100,12 +100,3 @@ Due to **limited internet connectivity** in my region and a focus on **full-time
   <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" title="Django" />
   <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" title="Flet" />
 </p>
-
----
-
-### 🌐 Connect
-<p align="left">
-  <a href="https://github.com/Kourva"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/github.png" width="70"/></a>
-  <a href="https://t.me/kourva"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/telegram.png" width="70"/></a>
-  <a href="https://instagram.com/d34uth"><img src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/social/instagram.png" width="70"/></a>
-</p>
