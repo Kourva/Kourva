@@ -11,90 +11,111 @@
 ▎∅ **Open-Source** ⌱ encryption utilities, UI components, and dev tools<br>
 ▎∅ **Systems** ⌱ Bash scripting, Linux workflows, advanced configs<br>
 ▎∅ **Security-minded** ⌱ secure, robust, scalable solutions<br>
-▎∅ **Vision** ⌱ professional-grade tools that solve real problems
+▎∅ **Vision** ⌱ professional-grade tools that solve real problems<br>
+▎<br>
+▎ **Currently: fullstack, Vue/Nuxt frontend focus, open to small freelance work.** <br>
+
+<br>
+
+
+### ＃ ACTIVITY
+<p align="center">
+  <img width="49%" src="./profile/stats.svg" />
+  <img width="290px" src="./profile/top-langs-compact.svg" />
+</p>
+
+<br>
+ 
+### ＃ Tech Stack
+<table width="100%">
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/languages/python.png" title="Python" /></td>
+    <td><b>▎PYTHON …</b> automation, APIs, Telegram bots, Android apps</td>
+  </tr>
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/flet.png" title="Flet" /></td>
+    <td><b>▎FLET …</b> cross-platform Python UIs</td>
+  </tr>
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/vue.png" title="Vue" /></td>
+    <td><b>▎VUE …</b> component-driven interfaces</td>
+  </tr>
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/nuxt.png" title="Nuxt" /></td>
+    <td><b>▎NUXT …</b> SSR frontends in TypeScript</td>
+  </tr>
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/laravel.png" title="Laravel" /></td>
+    <td><b>▎LARAVEL …</b> backend services, API layers</td>
+  </tr>
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/django.png" title="Django" /></td>
+    <td><b>▎DJANGO …</b> <i>ex-stack</i> — backend prototypes, the web entry point</td>
+  </tr>
+  <tr>
+    <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/odoo.png" title="Odoo" /></td>
+    <td><b>▎ODOO …</b> <i>ex-stack</i> — ERP customizations, business logic</td>
+  </tr>
+</table>
+
+<br>
 
 ### ＃ Work & Availability
-Limited internet in my region + focus on private repos = slower responses and public updates. I'm still committed to open-source... just expect delays.
+Limited internet in my region + focus on private repos = slower responses and public updates. I'm still committed to open-source. just expect delays.
 
----
+<br>
 
-### 🌟 Featured Projects
+### ＃ Selected Projects
+▎<a href="https://github.com/Kourva/CornHub"><b>１ CornHub ⎋﹕</b></a> content platform with a playful UI<br>
+▎<a href="https://github.com/Kourva/FletGrm"><b>２ FletGrm ⎋﹕</b></a> Telegram-style client built with Flet<br>
+▎<a href="https://github.com/Kourva/AwesomeChatGPTBot"><b>３ AwesomeChatGPTBot ⎋﹕</b></a> ChatGPT integration for Telegram<br>
+▎<a href="https://github.com/Kourva/V2rayDoprax"><b>４ V2rayDoprax ⎋﹕</b></a> proxy deployment tooling<br>
+▎<a href="https://github.com/Kourva/AwesomeBadges"><b>５ AwesomeBadges ⎋﹕</b></a> badge collection used across my repos<br>
+
+<br>
+
+### ＃ STREAK
 <p align="center">
-
-  <!-- CornHub: Yellow to Orange (Pornhub-inspired) -->
-  <a href="https://github.com/Kourva/CornHub">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kourva&repo=CornHub" />
-  </a>
-
-  <!-- FletGrm: Telegram-inspired (bright blue + light gray) -->
-  <a href="https://github.com/Kourva/FletGrm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=FletGrm&border_radius=5&bg_color=90,00BFFF,E0F7FA&title_color=000000&text_color=111111&label_color=00BFFF" />
-  </a>
-
-  <!-- AwesomeChatGPTBot: Purple gradient (techy, modern) -->
-  <a href="https://github.com/Kourva/AwesomeChatGPTBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=AwesomeChatGPTBot&border_radius=5&bg_color=90,8e2de2,4a00e0&title_color=FFFFFF&text_color=E0E0E0&label_color=8e2de2" />
-  </a>
-
-  <!-- V2rayDoprax: Vibrant Orange gradient -->
-  <a href="https://github.com/Kourva/V2rayDoprax">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=V2rayDoprax&border_radius=5&bg_color=90,FF9800,FF5722&title_color=FFFFFF&text_color=E0E0E0&label_color=FF5722" />
-  </a>
-
+  <img src="./profile/streak.svg" />
 </p>
 
----
+<br>
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kourva&theme=algolia&no-frame=true&margin-w=8&no-bg=true&title=2B65FF&text_color=F5F5F5&border_color=6B6B6B" />
-</p>
+### ＃ Production Work
 
----
+Not demos, production systems. I've shipped national-scale platforms, internal tools, and fullstack products: a multi-language therapy platform for kids, teens, adults, and couples; three separate Vue applications for the National Iranian Gas Company (CRM, PWA, and a reward-based engagement app), each with its own visual identity; a reservation-first cafe system built around consultants and brokers; and a professional qualification platform that maps career gaps and tells users exactly what to learn next. Alongside these I've delivered a long tail of smaller builds, cafe PWAs, dental clinic PWAs, online shops, and assorted internal tools, but the four below are the ones that ran at real scale. Some public, some behind closed doors. All of them built to run.
 
-### 📊 Stats Dashboard
-<p align="center">
-  <!-- Streak Banner -->
-  <img height="220" src="https://streak-stats.demolab.com?user=Kourva&theme=transparent&hide_border=true&background=00000000&ring=2B65FF&currStreakLabel=F5F5F5&sideLabels=6B6B6B&dates=3a4a5c&fire=2B65FF&stroke=6B6B6B" />
-</p>
+<table width="100%">
+  <tr>
+    <td><b>▎ASAYROOM</b></td>
+    <td>Vue 3 + Nuxt 4</td>
+    <td>Therapy platform — national scale, multi-language, video verification, wallets, assessments</td>
+  </tr>
+  <tr>
+    <td><b>▎NIGC</b></td>
+    <td>Vue 3</td>
+    <td>Three internal apps — CRM, PWA, GAZIOM — multi-theme, unique design each</td>
+  </tr>
+  <tr>
+    <td><b>▎CAFE MAHOUR</b></td>
+    <td>Nuxt 3</td>
+    <td>Reservation-first cafe system — table packages, two-level admin, full restaurant flow</td>
+  </tr>
+  <tr>
+    <td><b>▎BAAM</b></td>
+    <td>Nuxt 4</td>
+    <td>Professional qualification platform — resume builder, gap analysis, learning suggestions</td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Stats + Languages side by side -->
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Kourva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=2B65FF&text_color=F5F5F5&icon_color=2B65FF&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourva&layout=compact&langs_count=15&hide_border=true&theme=transparent&bg_color=00000000&title_color=2B65FF&text_color=F5F5F5&border_color=6B6B6B" />
-</p>
+**☍** [**kourva.github.io**](https://kourva.github.io/): full write-ups
 
----
+<br>
 
-### 📜 Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&color=2B65FF" />
-</p>
-
----
-
-### 📈 Contributions & Activity
-<p align="center">
-  <!-- Contribution Graph -->
-  <img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kourva&theme=github&hide_border=true&bg_color=00000000&color=2B65FF&line=2B65FF&point=6B6B6B" />
-
-  <!-- Productive Time / Common Graph -->
-  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kourva&theme=transparent&title_color=2B65FF&text_color=F5F5F5" />
-</p>
-
----
-
-### ⚡ Tech Stack
-<p align="left">
-  <!-- Languages & Frameworks -->
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/python.png" title="Python" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/vue.png" title="VueJs" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/nuxt.png" title="NuxtTs" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/laravel.png" title="Laravel" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" title="Odoo" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/php.png" title="PHP" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" title="JavaScript" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/typescript.png" title="typescript" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" title="Django" />
-  <img width="70" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" title="Flet" />
-</p>
+### ＃ Contact
+Best way to reach me. Email and Telegram.<br>
+〓 **Portfolio ━** [**kourva.github.io**](https://kourva.github.io/)<br>
+〓 **GitHub ━** [**github.com/Kourva**](https://github.com/Kourva)<br>
+〓 **Email ━** [**realkourva@proton.me**](mailto:realkourva@proton.me)<br>
+〓 **Telegram ━** [**@k0urv4**](https://t.me/k0urv4)<br>
+〓 **Instagram ━** [**@k0urv4**](https://instagram.com/k0urv4)<br>
