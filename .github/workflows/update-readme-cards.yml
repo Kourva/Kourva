@@ -16,18 +16,15 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Get all public repos, excluding forks, output as compact JSON array
           REPOS=$(gh repo list ${{ github.repository_owner }} \
             --limit 100 \
             --json name,isFork \
-            --jq '[.[] | select(.isFork == false) | .name]' | jq -c .)
+            --jq '[.[] | select(.isFork == false and .name != "${{ github.repository_owner }}") | .name]' | jq -c .)
           echo "repos=$REPOS" >> "$GITHUB_OUTPUT"
 
   generate:
     needs: discover
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     strategy:
       matrix:
         repo: ${{ fromJSON(needs.discover.outputs.repos) }}
@@ -45,10 +42,31 @@ jobs:
           path: profile/pin-${{ matrix.repo }}.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Upload SVG artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-${{ matrix.repo }}
+          path: profile/pin-${{ matrix.repo }}.svg
+
+  commit:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: profile
+          merge-multiple: true
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/pin-*.svg
+          git add profile/*.svg
           git diff --quiet || git commit -m "chore: update pin cards"
           git push
