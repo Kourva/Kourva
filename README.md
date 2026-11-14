@@ -19,8 +19,8 @@
 
 
 ### ＃ ACTIVITY
-<p align="left">
-  <img width="49%" src="./profile/stats.svg" />
+<p align="center">
+  <img width="55%" src="./profile/stats.svg" />
   <img width="290px" src="./profile/top-langs-compact.svg" />
 </p>
 
@@ -75,7 +75,7 @@ Limited internet in my region + focus on private repos = slower responses and pu
 <br>
 
 ### ＃ STREAK
-<p align="left">
+<p align="center">
   <img src="./profile/streak.svg" />
 </p>
 
