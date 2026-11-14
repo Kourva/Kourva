@@ -19,7 +19,7 @@
 
 
 ### ＃ ACTIVITY
-<p align="center">
+<p align="left">
   <img width="49%" src="./profile/stats.svg" />
   <img width="290px" src="./profile/top-langs-compact.svg" />
 </p>
@@ -50,11 +50,11 @@
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/django.png" title="Django" /></td>
-    <td><b>▎DJANGO …</b> <i>ex-stack</i> — backend prototypes, the web entry point</td>
+    <td><b>▎DJANGO …</b> <i>ex-stack</i>, backend prototypes, the web entry point</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/odoo.png" title="Odoo" /></td>
-    <td><b>▎ODOO …</b> <i>ex-stack</i> — ERP customizations, business logic</td>
+    <td><b>▎ODOO …</b> <i>ex-stack</i>, ERP customizations, business logic</td>
   </tr>
 </table>
 
@@ -75,7 +75,7 @@ Limited internet in my region + focus on private repos = slower responses and pu
 <br>
 
 ### ＃ STREAK
-<p align="center">
+<p align="left">
   <img src="./profile/streak.svg" />
 </p>
 
