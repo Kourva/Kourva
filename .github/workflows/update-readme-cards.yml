@@ -1,0 +1,54 @@
+name: Update README Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    outputs:
+      repos: ${{ steps.list.outputs.repos }}
+    steps:
+      - name: List repositories
+        id: list
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get all public repos, excluding forks, output as compact JSON array
+          REPOS=$(gh repo list ${{ github.repository_owner }} \
+            --limit 100 \
+            --json name,isFork \
+            --jq '[.[] | select(.isFork == false) | .name]' | jq -c .)
+          echo "repos=$REPOS" >> "$GITHUB_OUTPUT"
+
+  generate:
+    needs: discover
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    strategy:
+      matrix:
+        repo: ${{ fromJSON(needs.discover.outputs.repos) }}
+      fail-fast: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Pin Card for ${{ matrix.repo }}
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&bg_color=000000&title_color=D71921&text_color=E0E0E0&icon_color=D71921&border_color=D71921
+          path: profile/pin-${{ matrix.repo }}.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/pin-*.svg
+          git diff --quiet || git commit -m "chore: update pin cards"
+          git push
