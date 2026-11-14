@@ -15,7 +15,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      # --- All-time stats (new) ---
       - name: Generate Profile Summary Cards (All-time)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -25,12 +24,11 @@ jobs:
           THEME: "default"
           AUTO_PUSH: false
 
-      # --- Your existing cards ---
       - name: Generate Stats Card (Transparent)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Kourva&show_icons=true&bg_color=00000000&title_color=D71921&text_color=E0E0E0&icon_color=D71921&hide_border=true&rank_icon=percentile
+          options: username=Kourva&show_icons=true&bg_color=00000000&title_color=D71921&text_color=E0E0E0&icon_color=D71921&hide_border=true&rank_icon=percentile&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -65,7 +63,6 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.PAT_TOKEN }}
 
-      # --- Commit everything ---
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
