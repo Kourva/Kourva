@@ -89,22 +89,22 @@ Not demos, production systems. I've shipped national-scale platforms, internal t
   <tr>
     <td><b>▎ASAYROOM</b></td>
     <td>Vue 3 + Nuxt 4</td>
-    <td>Therapy platform — national scale, multi-language, video verification, wallets, assessments</td>
+    <td>Therapy platform, national scale, multi-language, video verification, wallets, assessments</td>
   </tr>
   <tr>
     <td><b>▎NIGC</b></td>
     <td>Vue 3</td>
-    <td>Three internal apps — CRM, PWA, GAZIOM — multi-theme, unique design each</td>
+    <td>Three internal apps, CRM, PWA, GAZIOM, multi-theme, unique design each</td>
   </tr>
   <tr>
     <td><b>▎CAFE MAHOUR</b></td>
     <td>Nuxt 3</td>
-    <td>Reservation-first cafe system — table packages, two-level admin, full restaurant flow</td>
+    <td>Reservation-first cafe system, table packages, two-level admin, full restaurant flow</td>
   </tr>
   <tr>
     <td><b>▎BAAM</b></td>
     <td>Nuxt 4</td>
-    <td>Professional qualification platform — resume builder, gap analysis, learning suggestions</td>
+    <td>Professional qualification platform, resume builder, gap analysis, learning suggestions</td>
   </tr>
 </table>
 
