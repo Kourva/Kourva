@@ -1,22 +1,20 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fabd4204-2a46-4e8d-b2eb-a756153a6b6f" />
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e90098fd-cf51-4ef0-9b62-144365077df3" />
 
-<h3 align="center">Laravel • Vue/Nuxt (TS) • Python • Odoo</h3>
+<h3 align="center">Python-first ● Laravel & Odoo backends ● Vue/Nuxt (TS) frontends ● Flet apps</h3>
 
 ---
 
-### 🚀 About Me
-- 🐍 **Python Specialist** → developed automation tools, APIs, and Android apps using Flet  
-- ⚙️ **Backend Engineer** → extensive experience with Laravel, Django, and Odoo ERP customizations  
-- 🌐 **Frontend Developer** → building performant UIs with Vue 3 and Nuxt (TypeScript)  
-- 📦 **Open-Source Contributor** → preparing packages for encryption utilities, UI components, and developer tools  
-- 🛠️ **System Enthusiast** → proficient with Bash scripting, Linux workflows, and advanced system configurations  
-- 🔒 **Cybersecurity-Oriented** → implementing secure, robust, and scalable solutions  
-- 🎯 **Vision** → creating a suite of professional-grade tools and services that are efficient, reliable, and solve real-world problems  
+### ＃ About Me
+▎∅  **Python Specialist** ⌱ automation tools, APIs, and Android apps with Flet<br>
+▎∅ **Backend Engineer** ⌱ Laravel, Django, and Odoo ERP customizations<br>
+▎∅ **Frontend Developer** ⌱ performant UIs with Vue 3 + Nuxt 4 (TypeScript)<br>
+▎∅ **Open-Source** ⌱ encryption utilities, UI components, and dev tools<br>
+▎∅ **Systems** ⌱ Bash scripting, Linux workflows, advanced configs<br>
+▎∅ **Security-minded** ⌱ secure, robust, scalable solutions<br>
+▎∅ **Vision** ⌱ professional-grade tools that solve real problems
 
-<br>
-
-### 🌐 Work & Availability Note
-Due to **limited internet connectivity** in my region and a focus on **full-time private repositories**, I may need extra time to respond, update, or build public projects. Updates may be slower than usual, but I remain committed to contributing to open-source.
+### ＃ Work & Availability
+Limited internet in my region + focus on private repos = slower responses and public updates. I'm still committed to open-source... just expect delays.
 
 ---
 
@@ -25,7 +23,7 @@ Due to **limited internet connectivity** in my region and a focus on **full-time
 
   <!-- CornHub: Yellow to Orange (Pornhub-inspired) -->
   <a href="https://github.com/Kourva/CornHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kourva&repo=CornHub&border_radius=5&bg_color=90,FFD600,FF9800&title_color=111111&text_color=111111&label_color=FF9800" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kourva&repo=CornHub" />
   </a>
 
   <!-- FletGrm: Telegram-inspired (bright blue + light gray) -->
