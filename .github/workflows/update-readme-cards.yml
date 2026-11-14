@@ -83,6 +83,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --quiet || git commit -m "chore: update readme cards"
-          git push
+          git add -A profile/
+          if git diff --cached --quiet; then
+            echo "No changes to commit, but checking if profile exists..."
+            if [ -d "profile" ] && [ -n "$(ls -A profile/ 2>/dev/null)" ]; then
+              echo "Profile folder exists but no changes detected. Files are already up to date."
+            else
+              echo "Profile folder missing or empty! Forcing commit..."
+              git add -f profile/*.svg 2>/dev/null || true
+              git commit -m "chore: initialize readme cards" --allow-empty || true
+            fi
+          else
+            git commit -m "chore: update readme cards"
+          fi
+          git push origin main
