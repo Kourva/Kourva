@@ -25,8 +25,7 @@
 ▎∅ **Systems** ⌱ Bash scripting, Linux workflows, advanced configs<br>
 ▎∅ **Security-minded** ⌱ secure, robust, scalable solutions<br>
 ▎∅ **Vision** ⌱ professional-grade tools that solve real problems<br>
-▎<br>
-▎ **Currently: fullstack, Vue/Nuxt frontend focus, open to small freelance work.** <br>
+Currently: fullstack, Vue/Nuxt frontend focus, open to small freelance work. <br>
 
 <br>
 
