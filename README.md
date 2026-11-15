@@ -2,6 +2,19 @@
 
 <h3 align="center">Python-first ● Laravel & Odoo backends ● Vue/Nuxt (TS) frontends ● Flet apps</h3>
 
+<p align="center">
+    <a href="https://gitranks.com/profile/Kourva/country">
+      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: stars rank #37 in Iran · top 1%">
+    </a>​ ​
+    <a href="https://gitranks.com/profile/Kourva/country">
+      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?by=contributions&amp;scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: contrib rank #990 in Iran · top 30%">
+    </a>​ ​
+    <a href="https://gitranks.com/profile/Kourva/country">
+      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?by=followers&amp;scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: followers rank #15 in Iran · top 0.5%">
+    </a>
+</p>
+
+
 ---
 
 ### ＃ About Me
