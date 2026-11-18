@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kourva&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1076, Total Commits  : 2872, Total PRs: 400, Total Issues: 2, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 1212, Total Commits  : 2878, Total PRs: 400, Total Issues: 2, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.082970160444624;
+        stroke-dashoffset: 39.654835028227446;
       }
     }
   
@@ -153,7 +153,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          15.9%
+          15.8%
         </text>
       
         </g>
@@ -172,7 +172,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >1.1k</text>
+      >1.2k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
