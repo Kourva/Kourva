@@ -1,31 +1,36 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e90098fd-cf51-4ef0-9b62-144365077df3" />
+<div align="center">
+    <img width="800px" height="300px" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ee3af98-a7be-49d6-97ec-87d6b4b62961" />
+    <h3>Python-first ● Laravel & Odoo backends ● Vue/Nuxt (TS) frontends ● Flet apps</h3>
+</div>
 
-<h3 align="center">Python-first ● Laravel & Odoo backends ● Vue/Nuxt (TS) frontends ● Flet apps</h3>
 
 <p align="center">
     <a href="https://gitranks.com/profile/Kourva/country">
-      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: stars rank #37 in Iran · top 1%">
+      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?scope=country&amp;scheme=custom&amp;left=%235D0768&amp;right=%23000000" alt="Kourva on GitRanks: stars rank in Iran">
     </a>​ ​
     <a href="https://gitranks.com/profile/Kourva/country">
-      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?by=contributions&amp;scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: contrib rank #990 in Iran · top 30%">
+      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?by=contributions&amp;scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: contrib rank in Iran">
     </a>​ ​
     <a href="https://gitranks.com/profile/Kourva/country">
-      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?by=followers&amp;scope=country&amp;scheme=custom&amp;left=%23d71921&amp;right=%23000000" alt="Kourva on GitRanks: followers rank #15 in Iran · top 0.5%">
+      <img src="https://gitranks.com/badge/user/Kourva/rank.svg?by=followers&amp;scope=country&amp;scheme=custom&amp;left=%2308B11A&amp;right=%23000000" alt="Kourva on GitRanks: followers rank in Iran">
     </a>
 </p>
 
 
 ---
+<img align="right" width="200" alt="dedsec-cat" src="https://github.com/user-attachments/assets/0a322dc8-2904-4a2a-8c6d-dd9ac19e2e33" />
+
 
 ### ＃ About Me
-▎∅  **Python Specialist** ⌱ automation tools, APIs, and Android apps with Flet<br>
-▎∅ **Backend Engineer** ⌱ Laravel, Django, and Odoo ERP customizations<br>
-▎∅ **Frontend Developer** ⌱ performant UIs with Vue 3 + Nuxt 4 (TypeScript)<br>
-▎∅ **Open-Source** ⌱ encryption utilities, UI components, and dev tools<br>
-▎∅ **Systems** ⌱ Bash scripting, Linux workflows, advanced configs<br>
-▎∅ **Security-minded** ⌱ secure, robust, scalable solutions<br>
-▎∅ **Vision** ⌱ professional-grade tools that solve real problems<br>
+▒ ◦ **Python Specialist** ⌱ automation tools, APIs, and Android apps with Flet<br>
+▓ ◦ **Backend Engineer** ⌱ Laravel, Django, and Odoo ERP customizations<br>
+▒ ◦ **Frontend Developer** ⌱ performant UIs with Vue 3 + Nuxt 4 (TypeScript)<br>
+▓ ◦ **Open-Source** ⌱ encryption utilities, UI components, and dev tools<br>
+▒ ◦ **Systems** ⌱ Bash scripting, Linux workflows, advanced configs<br>
+▓ ◦ **Security-minded** ⌱ secure, robust, scalable solutions<br>
+▒ ◦ **Vision** ⌱ professional-grade tools that solve real problems<br>
 Currently: fullstack, Vue/Nuxt frontend focus, open to small freelance work. <br>
+
 
 <br>
 
@@ -33,7 +38,7 @@ Currently: fullstack, Vue/Nuxt frontend focus, open to small freelance work. <br
 ### ＃ ACTIVITY
 <p align="center">
   <img width="55%" src="./profile/stats.svg" />
-  <img width="290px" src="./profile/top-langs-compact.svg" />
+  <img width="325px" src="./profile/top-langs-compact.svg" />
 </p>
 
 <br>
@@ -42,31 +47,31 @@ Currently: fullstack, Vue/Nuxt frontend focus, open to small freelance work. <br
 <table width="100%">
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/languages/python.png" title="Python" /></td>
-    <td><b>▎PYTHON …</b> automation, APIs, Telegram bots, Android apps</td>
+    <td><b>▓ PYTHON …</b> automation, APIs, Telegram bots, Android apps</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/flet.png" title="Flet" /></td>
-    <td><b>▎FLET …</b> cross-platform Python UIs</td>
+    <td><b>░ FLET …</b> cross-platform Python UIs</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/vue.png" title="Vue" /></td>
-    <td><b>▎VUE …</b> component-driven interfaces</td>
+    <td><b>▒ VUE …</b> component-driven interfaces</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/nuxt.png" title="Nuxt" /></td>
-    <td><b>▎NUXT …</b> SSR frontends in TypeScript</td>
+    <td><b>▓ NUXT …</b> SSR frontends in TypeScript</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/laravel.png" title="Laravel" /></td>
-    <td><b>▎LARAVEL …</b> backend services, API layers</td>
+    <td><b>░ LARAVEL …</b> backend services, API layers</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/django.png" title="Django" /></td>
-    <td><b>▎DJANGO …</b> <i>ex-stack</i>, backend prototypes, the web entry point</td>
+    <td><b>▒ DJANGO …</b> <i>ex-stack</i>, backend prototypes, the web entry point</td>
   </tr>
   <tr>
     <td><img width="30" src="https://raw.githubusercontent.com/Kourva/AwesomeBadges/main/Badges/frameworks/odoo.png" title="Odoo" /></td>
-    <td><b>▎ODOO …</b> <i>ex-stack</i>, ERP customizations, business logic</td>
+    <td><b>▓ ODOO …</b> <i>ex-stack</i>, ERP customizations, business logic</td>
   </tr>
 </table>
 
@@ -99,22 +104,22 @@ Not demos, production systems. I've shipped national-scale platforms, internal t
 
 <table width="100%">
   <tr>
-    <td><b>▎ASAYROOM</b></td>
+    <td><b>▓ ASAYROOM</b></td>
     <td>Vue 3 + Nuxt 4</td>
     <td>Therapy platform, national scale, multi-language, video verification, wallets, assessments</td>
   </tr>
   <tr>
-    <td><b>▎NIGC</b></td>
+    <td><b>▒ NIGC</b></td>
     <td>Vue 3</td>
     <td>Three internal apps, CRM, PWA, GAZIOM, multi-theme, unique design each</td>
   </tr>
   <tr>
-    <td><b>▎CAFE MAHOUR</b></td>
+    <td><b>▒ CAFE MAHOUR</b></td>
     <td>Nuxt 3</td>
     <td>Reservation-first cafe system, table packages, two-level admin, full restaurant flow</td>
   </tr>
   <tr>
-    <td><b>▎BAAM</b></td>
+    <td><b>▓ BAAM</b></td>
     <td>Nuxt 4</td>
     <td>Professional qualification platform, resume builder, gap analysis, learning suggestions</td>
   </tr>
@@ -124,10 +129,12 @@ Not demos, production systems. I've shipped national-scale platforms, internal t
 
 <br>
 
+<img width="200" align="right" src="https://github.com/user-attachments/assets/413debc9-1e68-4458-90eb-454784a4a49a" />
+
 ### ＃ Contact
 Best way to reach me. Email and Telegram.<br>
-〓 **Portfolio ━** [**kourva.github.io**](https://kourva.github.io/)<br>
-〓 **GitHub ━** [**github.com/Kourva**](https://github.com/Kourva)<br>
-〓 **Email ━** [**realkourva@proton.me**](mailto:realkourva@proton.me)<br>
-〓 **Telegram ━** [**@k0urv4**](https://t.me/k0urv4)<br>
-〓 **Instagram ━** [**@k0urv4**](https://instagram.com/k0urv4)<br>
+☲ **Portfolio ━** [**kourva.github.io**](https://kourva.github.io/)<br>
+☱ **GitHub ━** [**github.com/Kourva**](https://github.com/Kourva)<br>
+☴ **Email ━** [**realkourva@proton.me**](mailto:realkourva@proton.me)<br>
+☵ **Telegram ━** [**@k0urv4**](https://t.me/k0urv4)<br>
+☳ **Instagram ━** [**@k0urv4**](https://instagram.com/k0urv4)<br>
