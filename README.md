@@ -18,7 +18,7 @@
 
 
 ---
-<img align="right" width="200" alt="dedsec-cat" src="https://github.com/user-attachments/assets/0a322dc8-2904-4a2a-8c6d-dd9ac19e2e33" />
+<img align="right" width="150" alt="dedsec-cat" src="https://github.com/user-attachments/assets/0a322dc8-2904-4a2a-8c6d-dd9ac19e2e33" />
 
 
 ### ＃ About Me
