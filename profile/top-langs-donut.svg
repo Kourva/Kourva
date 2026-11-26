@@ -134,14 +134,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 43.56%
+        Vue 43.55%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 18.75%
+        TypeScript 18.76%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -194,8 +194,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="43.56"
-          d="M 138.9754959828647 168.75723438916185 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          size="43.55"
+          d="M 139.00822104610057 168.74320705696056 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
           stroke="#41b883"
           fill="none"
           stroke-width="12">
@@ -205,8 +205,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="18.75"
-          d="M 77.0784766857299 157.2115347160804 A 56.66666666666667 56.66666666666667 0 0 0 138.9754959828647 168.75723438916185"
+          size="18.76"
+          d="M 77.0784766857299 157.2115347160804 A 56.66666666666667 56.66666666666667 0 0 0 139.00822104610057 168.74320705696056"
           stroke="#3178c6"
           fill="none"
           stroke-width="12">
