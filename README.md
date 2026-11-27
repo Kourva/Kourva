@@ -22,7 +22,7 @@
 
 
 ### ＃ About Me
-▒ ◦ **Python Specialist** ⌱ automation tools, APIs, and Android apps with Flet<br>
+▒ ◦ **Python Specialist** ⌱ automation tools, APIs, and Cross-Platform apps with Flet<br>
 ▓ ◦ **Backend Engineer** ⌱ Laravel, Django, and Odoo ERP customizations<br>
 ▒ ◦ **Frontend Developer** ⌱ performant UIs with Vue 3 + Nuxt 4 (TypeScript)<br>
 ▓ ◦ **Open-Source** ⌱ encryption utilities, UI components, and dev tools<br>
