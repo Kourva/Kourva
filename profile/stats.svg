@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kourva&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1258, Total Commits  : 2894, Total PRs: 403, Total Issues: 2, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 1259, Total Commits  : 2895, Total PRs: 402, Total Issues: 2, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.38617797980833;
+        stroke-dashoffset: 36.38186116485981;
       }
     }
   
@@ -202,7 +202,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >403</text>
+      >402</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
